@@ -1,0 +1,61 @@
+{
+  "timezone_note": "Times are Guatemala time (UTC-06:00). A post only publishes when approved is true.",
+  "posts": [
+    {
+      "id": "2026-10-24-day01-story1",
+      "when": "2026-10-24T08:00:00-06:00",
+      "type": "story",
+      "approved": true,
+      "media": [
+        "posts/2026-10-24-day01-clip/story1_todays_client.jpg"
+      ],
+      "caption": ""
+    },
+    {
+      "id": "2026-10-24-day01-reel",
+      "when": "2026-10-24T12:00:00-06:00",
+      "type": "reel",
+      "approved": true,
+      "media": [
+        "posts/2026-10-24-day01-clip/reel_clip_launch.mp4"
+      ],
+      "cover": "posts/2026-10-24-day01-clip/reel_cover.jpg",
+      "caption": "Never once asked you to update it.\n\nClip is an independent concept — no brand, no client, just a very well-behaved piece of wire.\n\nYour product could be next. DM “DAILY”."
+    },
+    {
+      "id": "2026-10-24-day01-story2",
+      "when": "2026-10-24T12:30:00-06:00",
+      "type": "story",
+      "approved": true,
+      "media": [
+        "posts/2026-10-24-day01-clip/story2_launched.jpg"
+      ],
+      "caption": ""
+    },
+    {
+      "id": "2026-10-24-day01-carousel",
+      "when": "2026-10-24T19:30:00-06:00",
+      "type": "carousel",
+      "approved": true,
+      "media": [
+        "posts/2026-10-24-day01-clip/carousel_01.jpg",
+        "posts/2026-10-24-day01-clip/carousel_02.jpg",
+        "posts/2026-10-24-day01-clip/carousel_03.jpg",
+        "posts/2026-10-24-day01-clip/carousel_04.jpg",
+        "posts/2026-10-24-day01-clip/carousel_05.jpg",
+        "posts/2026-10-24-day01-clip/carousel_06.jpg"
+      ],
+      "caption": "Every meeting leaves a mark. Usually on the paperclip."
+    },
+    {
+      "id": "2026-10-24-day01-story3",
+      "when": "2026-10-24T21:30:00-06:00",
+      "type": "story",
+      "approved": true,
+      "media": [
+        "posts/2026-10-24-day01-clip/story3_tomorrow.jpg"
+      ],
+      "caption": ""
+    }
+  ]
+}
