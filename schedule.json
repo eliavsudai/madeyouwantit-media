@@ -56,6 +56,27 @@
         "posts/2026-10-24-day01-clip/story3_tomorrow.jpg"
       ],
       "caption": ""
+    },
+    {
+      "id": "2026-10-25-brief-paperclip-reel",
+      "when": "2026-10-25T19:30:00-06:00",
+      "type": "reel",
+      "approved": true,
+      "media": [
+        "posts/2026-10-25-brief-paperclip/reel_brief_paperclip.mp4"
+      ],
+      "cover": "posts/2026-10-25-brief-paperclip/reel_cover.jpg",
+      "caption": "Today's brief: make people want a paperclip.\n\nThe whole process, rejected first draft included.\n\nClip is an independent concept, not a real brand.\nYour product could be next. DM “DAILY”."
+    },
+    {
+      "id": "2026-10-25-teaser-sticky-story",
+      "when": "2026-10-25T21:30:00-06:00",
+      "type": "story",
+      "approved": true,
+      "media": [
+        "posts/2026-10-25-brief-paperclip/story_teaser.jpg"
+      ],
+      "caption": ""
     }
   ]
 }
