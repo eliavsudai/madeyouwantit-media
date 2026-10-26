@@ -93,7 +93,7 @@
       "id": "2026-10-26-promo-02",
       "when": "2026-10-26T18:00:00-06:00",
       "type": "reel",
-      "approved": false,
+      "approved": true,
       "media": [
         "posts/2026-10-26-promo-02/promo_02.mp4"
       ],
