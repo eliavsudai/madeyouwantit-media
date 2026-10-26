@@ -88,6 +88,17 @@
       ],
       "cover": "posts/2026-10-26-promo-01/cover.jpg",
       "caption": "Your product is great. It just needs content people actually stop for.\n\nWe make Reels for your product every day, written, designed and posted for you. You just approve.\n\nYour first ad is free. DM “DAILY”."
+    },
+    {
+      "id": "2026-10-26-promo-02",
+      "when": "2026-10-26T18:00:00-06:00",
+      "type": "reel",
+      "approved": false,
+      "media": [
+        "posts/2026-10-26-promo-02/promo_02.mp4"
+      ],
+      "cover": "posts/2026-10-26-promo-02/cover.jpg",
+      "caption": "It's just a coffee. Until someone makes you want it.\n\nHere's one idea for a café. We'd make you a new one every day, written, designed and posted for you.\n\nGot a café, a bakery or a shop? Your first ad is free. DM “DAILY”."
     }
   ]
 }
