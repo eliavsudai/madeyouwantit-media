@@ -77,6 +77,17 @@
         "posts/2026-10-25-brief-paperclip/story_teaser.jpg"
       ],
       "caption": ""
+    },
+    {
+      "id": "2026-10-26-promo-01",
+      "when": "2026-10-26T12:00:00-06:00",
+      "type": "reel",
+      "approved": true,
+      "media": [
+        "posts/2026-10-26-promo-01/promo_01.mp4"
+      ],
+      "cover": "posts/2026-10-26-promo-01/cover.jpg",
+      "caption": "Your product is great. It just needs content people actually stop for.\n\nWe make Reels for your product every day, written, designed and posted for you. You just approve.\n\nYour first ad is free. DM “DAILY”."
     }
   ]
 }
