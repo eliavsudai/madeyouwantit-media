@@ -741,7 +741,7 @@
      }
     },
     {
-     "say": "Compared with posting once or twice a week, reach per post climbed.",
+     "say": "Compared with once or twice a week, reach per post climbed.",
      "scene": {
       "kind": "bars",
       "title": "Reach per post vs 1–2 posts/week",
@@ -813,7 +813,7 @@
      }
     },
     {
-     "say": "Every post is a try. The tries are how you find the one that *takes* *off*."
+     "say": "Every post is a try. Tries find the *hit*."
     },
     {
      "say": "That's what we build into every account we run.",
@@ -906,10 +906,10 @@
      }
     },
     {
-     "say": "Each one teaches first, and the candle appears at the end, as the *answer*."
+     "say": "Each one teaches first. The candle is the *answer* at the end."
     },
     {
-     "say": "Why it works: sends count slightly more with people who *don't* follow you yet.",
+     "say": "Why? Sends count slightly more with people who *don't* follow you yet.",
      "scene": {
       "kind": "icons",
       "kinds": [
@@ -1095,7 +1095,7 @@
      }
     },
     {
-     "say": "And accounts that keep reposting other people's videos can be left out of recommendations *entirely*.",
+     "say": "Accounts that keep reposting can be left out of recommendations *entirely*.",
      "scene": {
       "kind": "feed",
       "speed": 1000
@@ -1120,7 +1120,7 @@
      }
     },
     {
-     "say": "Instagram said big accounts and repost pages used to get most of the reach,"
+     "say": "Instagram said big and repost accounts used to get most of the reach,"
     },
     {
      "say": "and it changed ranking to give smaller, *original* creators an *equal* footing.",
@@ -1310,7 +1310,7 @@
      }
     },
     {
-     "say": "The question your customers already ask you at the counter.",
+     "say": "The one customers already ask at the counter.",
      "scene": {
       "kind": "statement",
       "font": "serif",
@@ -1347,7 +1347,7 @@
      }
     },
     {
-     "say": "Then the answer, step by step. Then your croissant, at the end, as the proof."
+     "say": "Then the answer. Then your croissant, as the proof."
     },
     {
      "say": "Instagram's own business advice says it plainly: connect by teaching people something *new*.",
@@ -1821,7 +1821,7 @@
      }
     },
     {
-     "say": "It's called *trial* *reels*. Instagram launched it in December 2024.",
+     "say": "They're called *trial* *reels*.",
      "scene": {
       "kind": "statement",
       "font": "anton",
@@ -1830,7 +1830,7 @@
      }
     },
     {
-     "say": "A trial reel goes to people who *don't* follow you first. Your followers don't see it.",
+     "say": "A trial reel goes to people who *don't* follow you, first.",
      "scene": {
       "kind": "feed",
       "speed": 900
@@ -1849,7 +1849,7 @@
      }
     },
     {
-     "say": "If it does well within *seventy-two* hours, it can be shared with your followers automatically."
+     "say": "Do well within *seventy-two* hours, and it can go to your followers too."
     },
     {
      "say": "Instagram says *forty* percent of creators who tried it started posting reels more often.",
@@ -1884,7 +1884,7 @@
      }
     },
     {
-     "say": "Until then, every normal post is your trial. Treat it like one."
+     "say": "Until then, treat every post as a trial."
     },
     {
      "say": "That's what we build into every account we run.",
