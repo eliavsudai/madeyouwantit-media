@@ -1,0 +1,782 @@
+[
+  {
+    "id": "A1",
+    "topic": "A. How reach works / ranking signals",
+    "claim": "Adam Mosseri said the top three signals for Instagram ranking are watch time, likes and sends.",
+    "quote": "\"The top three signals that matter most for ranking are watch time, likes and sends.\"",
+    "source": "Social Media Today (Andrew Hutchinson), quoting Adam Mosseri",
+    "url": "https://www.socialmediatoday.com/news/instagram-shares-algorithm-2025/738034/",
+    "date": "2025-01-22",
+    "confidence": "publication quoting official (Mosseri)"
+  },
+  {
+    "id": "A2",
+    "topic": "A. How reach works / ranking signals",
+    "claim": "Mosseri told creators to track three numbers: average watch time, likes per reach, and sends per reach.",
+    "quote": "\"pay close attention to average watch time, likes per reach, and sends per reach.\"",
+    "source": "Social Media Today (Andrew Hutchinson), quoting Adam Mosseri",
+    "url": "https://www.socialmediatoday.com/news/instagram-shares-algorithm-2025/738034/",
+    "date": "2025-01-22",
+    "confidence": "publication quoting official (Mosseri)"
+  },
+  {
+    "id": "A3",
+    "topic": "A. How reach works / ranking signals",
+    "claim": "According to Mosseri, likes matter slightly more for reaching your followers, while sends (DM shares) matter slightly more for reaching people who don't follow you.",
+    "quote": "\"Likes are slightly more important for connected content, and sends are slightly more important for unconnected content.\"",
+    "source": "Social Media Today (Andrew Hutchinson), quoting Adam Mosseri",
+    "url": "https://www.socialmediatoday.com/news/instagram-shares-algorithm-2025/738034/",
+    "date": "2025-01-22",
+    "confidence": "publication quoting official (Mosseri)"
+  },
+  {
+    "id": "A4",
+    "topic": "A. How reach works / ranking signals",
+    "claim": "Mosseri called 'sends per reach' (out of everyone who saw a post, how many sent it to a friend in a DM) one of the most important signals in Instagram ranking.",
+    "quote": "\"One of the most important signals we use in ranking is sends per reach.\" ... \"So out of all the people who saw your video or photo, how many of them sent it to a friend in a DM?\"",
+    "source": "Search Engine Journal (Matt G. Southern), quoting Adam Mosseri's Instagram reel (instagram.com/reel/C86WDnEuBjB)",
+    "url": "https://searchenginejournal.com/instagram-algorithm-shift-why-sends-matter-more-than-ever/521389",
+    "date": "2024-07-03",
+    "confidence": "publication quoting official (Mosseri video). Note: he said 'one of the most important', not 'the most important'."
+  },
+  {
+    "id": "A5",
+    "topic": "A. How reach works / ranking signals",
+    "claim": "When Instagram finds two or more identical pieces of content, it recommends only the original.",
+    "quote": "\"when we find two or more identical pieces of content on Instagram, we will only recommend the original one.\" Content changed 'in a significant way' (new voiceover, reaction, parody edits) is not replaced.",
+    "source": "Instagram Creators (official): 'Helping Creators Find New Audiences' (recommendations & originality)",
+    "url": "https://creators.instagram.com/recommendations-and-Originality",
+    "date": "2024-04-30",
+    "confidence": "official"
+  },
+  {
+    "id": "A6",
+    "topic": "A. How reach works / ranking signals",
+    "claim": "Accounts that repeatedly post other people's content without creating or materially enhancing it are excluded from Instagram recommendations.",
+    "quote": "Accounts that \"repeatedly post content from other Instagram users that they didn't create or enhance in a material way\" are removed from recommendation surfaces (they can regain eligibility over time).",
+    "source": "Instagram Creators (official): 'Helping Creators Find New Audiences' (recommendations & originality)",
+    "url": "https://creators.instagram.com/recommendations-and-Originality",
+    "date": "2024-04-30",
+    "confidence": "official"
+  },
+  {
+    "id": "A7",
+    "topic": "A. How reach works / ranking signals",
+    "claim": "To be eligible for recommendations, Instagram says content should be original and have no visible watermarks.",
+    "quote": "Eligible content is original, follows community guidelines, and \"has no visible watermarks and satisfies our recommendation guidelines.\"",
+    "source": "Instagram Creators (official): 'Helping Creators Find New Audiences' (recommendations & originality)",
+    "url": "https://creators.instagram.com/recommendations-and-Originality",
+    "date": "2024-04-30",
+    "confidence": "official"
+  },
+  {
+    "id": "A8",
+    "topic": "A. How reach works / ranking signals",
+    "claim": "Instagram said in April 2024 that big accounts and repost accounts had historically gotten the most reach, and it changed ranking to give smaller, original creators an equal footing.",
+    "quote": "Instagram aims to \"better highlight content from smaller, original creators\" and give all creators \"an equal footing in terms of reach\"; original content \"will directly replace the reposted content\" in recommendations.",
+    "source": "TechCrunch (Aisha Malik)",
+    "url": "https://techcrunch.com/2024/04/30/instagram-is-updating-its-ranking-systems-to-surface-more-content-from-smaller-original-creators",
+    "date": "2024-04-30",
+    "confidence": "publication reporting official announcement"
+  },
+  {
+    "id": "A9",
+    "topic": "A. How reach works / ranking signals",
+    "claim": "In 2026 Mosseri said Instagram shows public posts from small creators to non-followers to test how people respond, as one of four ranking principles (originality, recency, breaking new creators, bigger models).",
+    "quote": "Paraphrase: public posts from small creators are shown to non-followers to gauge response, aiming to boost new creators; original content gets priority over reposts; recency 'matters a lot'.",
+    "source": "Social Media Today (Andrew Hutchinson), summarizing Adam Mosseri's video series",
+    "url": "https://www.socialmediatoday.com/news/instagram-chief-shares-algorithm-insights-and-posting-tips/831326/",
+    "date": "2026-09-24",
+    "confidence": "publication paraphrasing official (Mosseri videos) - say 'Instagram's head has said', not a verbatim quote"
+  },
+  {
+    "id": "A10",
+    "topic": "A. How reach works / ranking signals",
+    "claim": "Mosseri says Instagram ranking changes in small ways every day and big reach swings on a given day are more likely caused by the world changing (holidays, events) than by an algorithm change.",
+    "quote": "\"Small changes go out every day. It's very rare that there's a massive change in how we do something.\" ... \"if there's a big swing on a given day, it's probably more likely the world changed.\"",
+    "source": "Social Media Today (Andrew Hutchinson), reporting Mosseri interview with Brock Johnson",
+    "url": "https://www.socialmediatoday.com/news/instagram-chief-answers-creator-questions/744813/",
+    "date": "2025-04-08",
+    "confidence": "publication quoting official (Mosseri interview)"
+  },
+  {
+    "id": "A11",
+    "topic": "A. How reach works / ranking signals",
+    "claim": "Instagram Insights splits your reach into followers vs. non-followers, and Mosseri has pushed creators to look at 'connected' vs 'unconnected' reach.",
+    "quote": "Insights can break down Accounts Reached by followers and non-followers (Instagram Creators). Mosseri: he has pushed for creators to \"see the difference between their 'connected' and 'unconnected' reach.\" (SMT, 2025-04-08)",
+    "source": "Instagram Creators blog (official): 'What Creators Need To Know About Instagram Recommendations'",
+    "url": "https://creators.instagram.com/blog/instagram-recommendations-eligibility-tips-creators",
+    "date": "2022-08-30 (updated 2023-04-25; page text checked Oct 2026)",
+    "confidence": "official + publication quoting official"
+  },
+  {
+    "id": "A12",
+    "topic": "A. How reach works / ranking signals",
+    "claim": "Professional accounts can check in Account Status whether any of their content is ineligible to be recommended to non-followers, and request a review.",
+    "quote": "Professional accounts can check whether their content is ineligible for recommendation to non-followers (Settings > Account > Account Status) and request a review.",
+    "source": "Instagram Creators blog (official): 'What Creators Need To Know About Instagram Recommendations'",
+    "url": "https://creators.instagram.com/blog/instagram-recommendations-eligibility-tips-creators",
+    "date": "2022-08-30 (updated 2023-04-25; page text checked Oct 2026)",
+    "confidence": "official (menu path may have moved since 2023)"
+  },
+  {
+    "id": "A13",
+    "topic": "A. How reach works / ranking signals",
+    "claim": "Instagram will not recommend certain allowed content to non-followers, including violence, tobacco/vaping promotion and sexually suggestive content; repeated violations can make a whole account ineligible for a period.",
+    "quote": "Content that \"may depict violence\", promotes tobacco or vaping, or \"may be sexually explicit or suggestive\" isn't recommended; repeat posting can make the account ineligible for a period.",
+    "source": "Instagram Creators blog (official): 'What Creators Need To Know About Instagram Recommendations'",
+    "url": "https://creators.instagram.com/blog/instagram-recommendations-eligibility-tips-creators",
+    "date": "2022-08-30 (updated 2023-04-25; page text checked Oct 2026)",
+    "confidence": "official"
+  },
+  {
+    "id": "A14",
+    "topic": "A. How reach works / ranking signals",
+    "claim": "In April 2023 Mark Zuckerberg said about 40% of the content people see across Instagram comes from AI recommendations, and AI recommendations drove a more than 24% increase in time spent since Reels launched.",
+    "quote": "\"Since we launched Reels, AI recommendations have driven a more than 24% increase in time spent on Instagram.\" ... \"Across all of Instagram, that's about 40% of the content that you see.\"",
+    "source": "FOX 35 Orlando news report of Meta Q1 2023 earnings call (Mark Zuckerberg)",
+    "url": "https://www.fox35orlando.com/news/people-spent-24-more-time-on-instagram-after-launch-of-ai-powered-reels-zuckerberg-says",
+    "date": "2023-04-27",
+    "confidence": "news report quoting official earnings call - OLDER (2023), the share is likely higher now; say 'back in 2023'"
+  },
+  {
+    "id": "B1",
+    "topic": "B. Hooks / first seconds / captions",
+    "claim": "Instagram's official tip for reaching new audiences: capture viewers' attention within the first few seconds of a reel.",
+    "quote": "Tips for reaching new audiences include: \"Hook viewers fast\" - capture attention within the first few seconds.",
+    "source": "Instagram Creators blog (official): 'What Creators Need To Know About Instagram Recommendations'",
+    "url": "https://creators.instagram.com/blog/instagram-recommendations-eligibility-tips-creators",
+    "date": "2022-08-30 (updated 2023-04-25; page text checked Oct 2026)",
+    "confidence": "official"
+  },
+  {
+    "id": "B2",
+    "topic": "B. Hooks / first seconds / captions",
+    "claim": "Instagram's business site tells brands to grab attention in the first five seconds so viewers keep watching.",
+    "quote": "Hooks: grab attention in the first five seconds so viewers keep watching. Also: \"Entertaining storytelling drives discovery for your business.\"",
+    "source": "Instagram for Business (official): 'Get discovered with Reels'",
+    "url": "https://business.instagram.com/instagram-reels",
+    "date": "undated (checked Oct 2026)",
+    "confidence": "official (undated page)"
+  },
+  {
+    "id": "B3",
+    "topic": "B. Hooks / first seconds / captions",
+    "claim": "Instagram's 'skip rate' metric measures the percentage of views where people skipped your reel within the first 3 seconds - Instagram treats the first 3 seconds as the hook window.",
+    "quote": "\"skip rate is the percentage of views from people who decided to skip your reel during those first 3 seconds.\" It replaced 'view rate' (% who watched past the first 3 seconds).",
+    "source": "Social Media Today (Andrew Hutchinson), quoting Instagram's @creators announcement",
+    "url": "https://www.socialmediatoday.com/news/instagram-adds-retention-insights-reels/758464/",
+    "date": "2025-08-24",
+    "confidence": "publication quoting official (@creators)"
+  },
+  {
+    "id": "B4",
+    "topic": "B. Hooks / first seconds / captions",
+    "claim": "Instagram's business blog reported (using Nielsen data) that up to 47% of a video campaign's value was delivered in the first 3 seconds and up to 74% in the first 10 seconds.",
+    "quote": "Up to 47% of a video campaign's value was delivered in the first three seconds; up to 74% in the first ten seconds (citing Nielsen).",
+    "source": "Instagram Business blog (official): 'Coming soon: view counts on videos'",
+    "url": "https://business.instagram.com/blog/coming-soon-view-counts-on-videos",
+    "date": "undated, circa 2015",
+    "confidence": "official but OLD (c. 2015, video ads, pre-Reels) - flag as 'early Instagram/Nielsen research'. Also confirmed by Marketing Dive 2017-08-03 citing Facebook."
+  },
+  {
+    "id": "B5",
+    "topic": "B. Hooks / first seconds / captions",
+    "claim": "Facebook's 2016 research found people can recall mobile feed content at a statistically significant rate after seeing it for just a quarter of a second (0.25 s).",
+    "quote": "People can remember mobile news-feed content \"después de verla únicamente durante un cuarto de segundo\" (independent Fors Marsh tests).",
+    "source": "Meta Newsroom (official, Spanish): 'Capta la atención con nuevas funcionalidades para anuncios de vídeo'",
+    "url": "https://about.fb.com/es/news/2016/02/capta-la-atencion-con-nuevas-funcionalidades-para-anuncios-de-video/amp/",
+    "date": "2016-02-10",
+    "confidence": "official but OLD (2016, Facebook feed) - present as 'Facebook research from 2016'"
+  },
+  {
+    "id": "B6",
+    "topic": "B. Hooks / first seconds / captions",
+    "claim": "Facebook's 2016 data found people spent an average of 1.7 seconds with a piece of content on mobile versus 2.5 seconds on desktop.",
+    "quote": "Average time spent with content: 1.7 seconds on mobile vs. 2.5 seconds on desktop, per Facebook's report 'Capturing Attention in Feed: The Science Behind Effective Video Creative'.",
+    "source": "Social Media Today (Andrew Hutchinson), summarizing Facebook IQ report",
+    "url": "https://www.socialmediatoday.com/news/facebook-releases-new-guide-to-help-advertisers-maximize-video-ad-performan/450818",
+    "date": "2016-04-21",
+    "confidence": "publication summarizing official - OLD (2016, Facebook feed, not Reels). It measures average time per feed item; do NOT phrase as 'you have 1.7 seconds to hook someone on Reels'."
+  },
+  {
+    "id": "B7",
+    "topic": "B. Hooks / first seconds / captions",
+    "claim": "Facebook's internal tests found captioned video ads increased view time by an average of 12%.",
+    "quote": "\"los anuncios de vídeo con subtítulos incrementan el tiempo de visionado un 12% de media\" (internal tests).",
+    "source": "Meta Newsroom (official, Spanish)",
+    "url": "https://about.fb.com/es/news/2016/02/capta-la-atencion-con-nuevas-funcionalidades-para-anuncios-de-video/amp/",
+    "date": "2016-02-10",
+    "confidence": "official but OLD (2016, Facebook video ads)"
+  },
+  {
+    "id": "B8",
+    "topic": "B. Hooks / first seconds / captions",
+    "claim": "In a Facebook study of video ads, 41% of the videos were meaningless without sound.",
+    "quote": "\"En un estudio de los anuncios de vídeo en Facebook, el 41% de los vídeos carecían de significado sin sonido.\"",
+    "source": "Meta Newsroom (official, Spanish)",
+    "url": "https://about.fb.com/es/news/2016/02/capta-la-atencion-con-nuevas-funcionalidades-para-anuncios-de-video/amp/",
+    "date": "2016-02-10",
+    "confidence": "official but OLD (2016)"
+  },
+  {
+    "id": "B9",
+    "topic": "B. Hooks / first seconds / captions",
+    "claim": "Meta's Reels Performance Book says the first few seconds decide whether viewers keep watching and suggests testing hooks like a question, an upfront punchline or bold visuals, plus text stickers to reinforce key points.",
+    "quote": "The first few seconds decide whether viewers keep watching; test hooks such as a question, an upfront punchline, or bold visuals; use text stickers to repeat voiceover/highlight key points.",
+    "source": "Social Samosa summarizing Meta's 'Reels Performance Book' PDF",
+    "url": "https://socialsamosa.com/news-2/meta-reels-marketing-tips-latest-guide-6950438",
+    "date": "2024-09-05",
+    "confidence": "secondhand (trade pub summary of an official Meta PDF; ad-focused) - cite as 'Meta's Reels ad guide'"
+  },
+  {
+    "id": "B10",
+    "topic": "B. Hooks / first seconds / captions",
+    "claim": "Instagram's business site recommends using voiceover and timed text to reinforce your message in Reels.",
+    "quote": "Use voiceover and timed text to reinforce your product and brand message.",
+    "source": "Instagram for Business (official): 'Get discovered with Reels'",
+    "url": "https://business.instagram.com/instagram-reels",
+    "date": "undated (checked Oct 2026)",
+    "confidence": "official (undated)"
+  },
+  {
+    "id": "C1",
+    "topic": "C. Retention / watch time / length",
+    "claim": "Watch time is one of Instagram's top three ranking signals, and average watch time is one of the three numbers Mosseri tells creators to track.",
+    "quote": "\"The top three signals that matter most for ranking are watch time, likes and sends.\"",
+    "source": "Social Media Today (Andrew Hutchinson), quoting Adam Mosseri",
+    "url": "https://www.socialmediatoday.com/news/instagram-shares-algorithm-2025/738034/",
+    "date": "2025-01-22",
+    "confidence": "publication quoting official (Mosseri)"
+  },
+  {
+    "id": "C2",
+    "topic": "C. Retention / watch time / length",
+    "claim": "Instagram added a Retention chart to every reel showing where viewers stop watching; Instagram says the flatter the line, the more engaged your audience.",
+    "quote": "\"With Retention, you'll always see a downward slope, but the flatter the line, the more engaged your audience is.\"",
+    "source": "Social Media Today (Andrew Hutchinson), quoting Instagram's @creators announcement",
+    "url": "https://www.socialmediatoday.com/news/instagram-adds-retention-insights-reels/758464/",
+    "date": "2025-08-24",
+    "confidence": "publication quoting official"
+  },
+  {
+    "id": "C3",
+    "topic": "C. Retention / watch time / length",
+    "claim": "In August 2025 Instagram replaced 'view rate' with 'skip rate' in reel insights - the share of views that skipped in the first 3 seconds.",
+    "quote": "Skip rate replaces view rate \"in the coming weeks\"; \"skip rate is the percentage of views from people who decided to skip your reel during those first 3 seconds.\"",
+    "source": "Social Media Today (Andrew Hutchinson), quoting Instagram's @creators announcement",
+    "url": "https://www.socialmediatoday.com/news/instagram-adds-retention-insights-reels/758464/",
+    "date": "2025-08-24",
+    "confidence": "publication quoting official"
+  },
+  {
+    "id": "C4",
+    "topic": "C. Retention / watch time / length",
+    "claim": "Instagram says reels must be 3 minutes or less to be eligible for recommendation to non-followers.",
+    "quote": "\"Keep reels short\": recommended content must be 3 minutes or less.",
+    "source": "Instagram Creators blog (official): 'What Creators Need To Know About Instagram Recommendations'",
+    "url": "https://creators.instagram.com/blog/instagram-recommendations-eligibility-tips-creators",
+    "date": "2022-08-30 (updated 2023-04-25; page text checked Oct 2026)",
+    "confidence": "official (note: Instagram for Business page still says 'reels under 90 seconds are eligible to be recommended' - outdated; prefer this one)"
+  },
+  {
+    "id": "C5",
+    "topic": "C. Retention / watch time / length",
+    "claim": "Mosseri says Instagram is not trying to optimize for time spent, aiming to balance entertainment with connection between friends.",
+    "quote": "\"We're not trying to optimize for time.\"",
+    "source": "Social Media Today (Andrew Hutchinson), reporting Mosseri interview with Brock Johnson",
+    "url": "https://www.socialmediatoday.com/news/instagram-chief-answers-creator-questions/744813/",
+    "date": "2025-04-08",
+    "confidence": "publication quoting official (Mosseri) - useful nuance: retention matters, but sends/connection matter too"
+  },
+  {
+    "id": "C6",
+    "topic": "C. Retention / watch time / length",
+    "claim": "Meta's Reels guide says transitions, zooms and quick cuts help hold attention.",
+    "quote": "Editing: transitions, zooms, and quick cuts help hold attention.",
+    "source": "Social Samosa summarizing Meta's 'Reels Performance Book' PDF",
+    "url": "https://socialsamosa.com/news-2/meta-reels-marketing-tips-latest-guide-6950438",
+    "date": "2024-09-05",
+    "confidence": "secondhand (ad-focused guide)"
+  },
+  {
+    "id": "C7",
+    "topic": "C. Retention / watch time / length",
+    "claim": "Mosseri says creators chasing reach should focus on engagement rate rather than total views or likes.",
+    "quote": "Paraphrase: creators who want more reach should focus on engagement rate rather than total views or likes.",
+    "source": "Social Media Today (Andrew Hutchinson), summarizing Adam Mosseri's video series",
+    "url": "https://www.socialmediatoday.com/news/instagram-chief-shares-algorithm-insights-and-posting-tips/831326/",
+    "date": "2026-09-24",
+    "confidence": "publication paraphrasing official (Mosseri)"
+  },
+  {
+    "id": "D1",
+    "topic": "D. Shares (sends) and saves",
+    "claim": "Mosseri's advice: make content people would want to send to a friend, because sends per reach is one of Instagram's most important ranking signals.",
+    "quote": "\"But if you can, think about making content that people would want to send to a friend, or to someone they care about.\"",
+    "source": "Search Engine Journal (Matt G. Southern), quoting Adam Mosseri's Instagram reel (instagram.com/reel/C86WDnEuBjB)",
+    "url": "https://searchenginejournal.com/instagram-algorithm-shift-why-sends-matter-more-than-ever/521389",
+    "date": "2024-07-03",
+    "confidence": "publication quoting official (Mosseri video)"
+  },
+  {
+    "id": "D2",
+    "topic": "D. Shares (sends) and saves",
+    "claim": "Sends (DM shares) count slightly more than likes when Instagram decides whether to show content to non-followers.",
+    "quote": "\"Likes are slightly more important for connected content, and sends are slightly more important for unconnected content.\"",
+    "source": "Social Media Today (Andrew Hutchinson), quoting Adam Mosseri",
+    "url": "https://www.socialmediatoday.com/news/instagram-shares-algorithm-2025/738034/",
+    "date": "2025-01-22",
+    "confidence": "publication quoting official (Mosseri)"
+  },
+  {
+    "id": "D3",
+    "topic": "D. Shares (sends) and saves",
+    "claim": "Mosseri says far more photos and videos are now shared into DMs than into Stories, and more into Stories than into the Feed.",
+    "quote": "\"there are way more photos and videos shared into DMs than into stories\" ... \"way more photos and videos are shared into stories than into the feed\" ... \"It's a paradigm shift.\"",
+    "source": "Business Insider (Peter Kafka, 'Channels' interview with Adam Mosseri), via Yahoo News syndication",
+    "url": "https://www.yahoo.com/news/instagram-head-adam-mosseri-paradigm-100002931.html",
+    "date": "2025/2026 (syndicated copy undated; image paths suggest Mar 2026)",
+    "confidence": "publication quoting official (Mosseri) - date uncertain"
+  },
+  {
+    "id": "D4",
+    "topic": "D. Shares (sends) and saves",
+    "claim": "In August 2024 Instagram made 'Views' the primary metric across all formats, and Mosseri pointed to Views plus Sends per Reach as the most important metrics for creators.",
+    "quote": "Instagram: \"'Views' as the primary metric across all formats.\" Article: Mosseri \"is now saying that 'Views,' along with 'Sends per Reach,' are now the most important metrics.\"",
+    "source": "Social Media Today (Andrew Hutchinson)",
+    "url": "https://socialmediatoday.com/news/instagram-updates-metrics-to-focus-creators-on-views/723645/",
+    "date": "2024-08-07",
+    "confidence": "publication quoting official announcement + paraphrasing Mosseri"
+  },
+  {
+    "id": "D5",
+    "topic": "D. Shares (sends) and saves",
+    "claim": "Instagram's ranking predicts how each person will respond to a post - including whether they'll watch it or pass it to a friend.",
+    "quote": "Paraphrase: ranking predicts how users will respond, including whether they'll watch a post or pass it to a friend.",
+    "source": "Social Media Today (Andrew Hutchinson), summarizing Adam Mosseri's video series",
+    "url": "https://www.socialmediatoday.com/news/instagram-chief-shares-algorithm-insights-and-posting-tips/831326/",
+    "date": "2026-09-24",
+    "confidence": "publication paraphrasing official (Mosseri)"
+  },
+  {
+    "id": "D6",
+    "topic": "D. Shares (sends) and saves",
+    "claim": "For Reels, Instagram says it looks at your recent activity - which reels you've liked, saved, reshared and commented on - to decide what to show you.",
+    "quote": "\"We look at things like which reels you've liked, saved, reshared, commented on, and engaged with recently.\"",
+    "source": "Social Media Today (Andrew Hutchinson), quoting Mosseri's 'Instagram Ranking Explained'",
+    "url": "https://www.socialmediatoday.com/news/instagram-shares-new-explainer-on-how-its-feed-reels-and-stories-algorithm/651705/",
+    "date": "2023-05-31",
+    "confidence": "publication quoting official - 2023 (still the latest full explainer). Note: no recent official statement ranks saves above sends; don't claim 'saves are the #1 signal'."
+  },
+  {
+    "id": "E1",
+    "topic": "E. Testing, trial reels and consistency",
+    "claim": "Instagram launched Trial Reels on December 10, 2024: reels shown to non-followers first, not to your followers in Feed or the Reels tab.",
+    "quote": "\"Trial reels will be shown to non-followers first.\" \"Your trial reel will not appear in your profile's reels tab or your main grid unless you later decide to Share to everyone.\"",
+    "source": "Instagram Creators blog (official): 'Trial reels: Try content with non-followers first'",
+    "url": "https://creators.instagram.com/blog/instagram-trial-reels",
+    "date": "2024-12-10",
+    "confidence": "official"
+  },
+  {
+    "id": "E2",
+    "topic": "E. Testing, trial reels and consistency",
+    "claim": "About 24 hours after posting a trial reel you can see its views, likes, comments and shares; with auto-share on, Instagram shares it with followers if it performs well within the first 72 hours.",
+    "quote": "~24 hours: engagement metrics visible; 72 hours: automatic sharing to followers if it performs well based on views in the first 72 hours.",
+    "source": "Instagram Creators blog (official): 'Trial reels: Try content with non-followers first'",
+    "url": "https://creators.instagram.com/blog/instagram-trial-reels",
+    "date": "2024-12-10",
+    "confidence": "official"
+  },
+  {
+    "id": "E3",
+    "topic": "E. Testing, trial reels and consistency",
+    "claim": "Instagram's Head of Product said trial reels exist so creators can take bold creative chances without pressure.",
+    "quote": "Ashley Alexander: \"Creatives have lots of ideas and one of the worst things that can kill creativity is feeling pressure\"; \"Instagram should be a place where you can take all of your most bold creative chances and be rewarded when they pan out.\"",
+    "source": "TechCrunch (Aisha Malik)",
+    "url": "https://techcrunch.com/2024/12/10/instagram-rolls-out-trial-reels-that-arent-shown-to-a-creators-followers",
+    "date": "2024-12-10",
+    "confidence": "publication quoting official (Instagram VP)"
+  },
+  {
+    "id": "E4",
+    "topic": "E. Testing, trial reels and consistency",
+    "claim": "Since July 2025, Trial Reels are available to creators with at least 1,000 followers and a public account.",
+    "quote": "Mosseri: \"all creators with at least 1,000 followers and an account set to 'Public.'\"",
+    "source": "Social Media Today (Andrew Hutchinson), quoting Adam Mosseri",
+    "url": "https://www.socialmediatoday.com/news/instagram-expands-access-trial-reels/752895/",
+    "date": "2025-07-13",
+    "confidence": "publication quoting official (Mosseri). Eligibility may have changed again in 2026 - verify in-app."
+  },
+  {
+    "id": "E5",
+    "topic": "E. Testing, trial reels and consistency",
+    "claim": "Instagram said 40% of creators who tried trial reels started posting reels more often, and 80% saw an increase in reels reach from non-followers; you can post up to 20 trial reels per day.",
+    "quote": "\"After trying trial reels, 40% of creators started posting reels more often\" ... \"80% saw an increase in reels reach from non-followers.\" ... \"You're limited to 20 trial Reels per day\"",
+    "source": "Social Media Today (Andrew Hutchinson), reporting Instagram's own figures",
+    "url": "https://socialmediatoday.com/news/instagram-trial-reels-increase-reach-tests/750121/",
+    "date": "2025-06-08",
+    "confidence": "publication reporting official Instagram figures. 80% = share of creators, NOT an 80% reach increase."
+  },
+  {
+    "id": "E6",
+    "topic": "E. Testing, trial reels and consistency",
+    "claim": "Since April 2026, creators can schedule trial reels ahead of time.",
+    "quote": "Mosseri: \"Now you can actually schedule them ahead of time.\"",
+    "source": "Social Media Today (Andrew Hutchinson), quoting Adam Mosseri",
+    "url": "https://socialmediatoday.com/news/instagram-allows-creators-to-schedule-trial-reels/816549/",
+    "date": "2026-04-02",
+    "confidence": "publication quoting official (Mosseri)"
+  },
+  {
+    "id": "E7",
+    "topic": "E. Testing, trial reels and consistency",
+    "claim": "Buffer's analysis of 2.1 million posts from 102,000 accounts found posting 3-5 times a week gave about 12% more reach per post than 1-2 times, and 10+ times a week about 24% more.",
+    "quote": "Reach per post vs 1-2 posts/week: 3-5 posts/week about +12%; 6-9 about +18%; 10+ about +24%. Biggest jump is from 1-2 to 3-5; diminishing returns after.",
+    "source": "Buffer (Kirsti Lang; analysis by data scientist Julian Winternheimer)",
+    "url": "https://buffer.com/resources/how-often-to-post-on-instagram/",
+    "date": "2025-08-13",
+    "confidence": "publication (original data study); also covered by Social Media Today 2025-08-13"
+  },
+  {
+    "id": "E8",
+    "topic": "E. Testing, trial reels and consistency",
+    "claim": "In Buffer's study, moving from 1-2 to 3-5 feed posts a week more than doubled the weekly follower growth rate (0.12% to 0.26%).",
+    "quote": "Follower growth increase per week: 1-2 posts +0.12%; 3-5 posts +0.26% ('more than double'); 6-9 posts +0.44%; 10+ posts +0.66%.",
+    "source": "Buffer (Kirsti Lang; analysis by data scientist Julian Winternheimer)",
+    "url": "https://buffer.com/resources/how-often-to-post-on-instagram/",
+    "date": "2025-08-13",
+    "confidence": "publication (original data study; feed posts only, Stories excluded)"
+  },
+  {
+    "id": "E9",
+    "topic": "E. Testing, trial reels and consistency",
+    "claim": "Mosseri encourages experimenting with different content, using Trial Reels to test, and posting as much as you can for a better chance at a hit while avoiding burnout.",
+    "quote": "Paraphrase: experiment, trends shift quickly; Trial Reels are a useful testing tool; post as much as possible for a better chance at a hit while managing burnout.",
+    "source": "Social Media Today (Andrew Hutchinson), summarizing Adam Mosseri's video series",
+    "url": "https://www.socialmediatoday.com/news/instagram-chief-shares-algorithm-insights-and-posting-tips/831326/",
+    "date": "2026-09-24",
+    "confidence": "publication paraphrasing official (the 'post as much as possible' line is SMT's paraphrase, not verbatim)"
+  },
+  {
+    "id": "F1",
+    "topic": "F. Teach, don't sell / educational content",
+    "claim": "Sprout Social found two-thirds of social media users say content that both educates and entertains ('edutainment') is the most engaging type of brand content.",
+    "quote": "Two-thirds of social users find content that both educates and entertains to be the most engaging type of brand content (survey of 4,500+ consumers).",
+    "source": "Sprout Social, 2024 Social Media Content Strategy Report",
+    "url": "https://sproutsocial.com/insights/data/2024-social-content-strategy-report/",
+    "date": "2024 (images dated Sept 2024)",
+    "confidence": "publication (original survey)"
+  },
+  {
+    "id": "F2",
+    "topic": "F. Teach, don't sell / educational content",
+    "claim": "In the 2025 Sprout Social Index, consumers ranked relatability, authenticity and entertainment as the most important traits of brand content - and polished, product-centric content as least important.",
+    "quote": "Most important: relatability, authenticity, entertainment. Least important: off-the-cuff, polished, product-centric; production value and product-centricity are \"markedly less important.\"",
+    "source": "Sprout Social Index 2025 (Edition XX) - 'What consumers want on social' PDF; 4,044 consumers, US/UK/CA/AU, surveyed Sept 13-27, 2024",
+    "url": "https://brandfolder.sproutsocial.com/VXTUTVL1/at/c5xxww63p5qnmhqrw5qsrb9n/index_2025_what-consumers-want-on-social.pdf",
+    "date": "2025 (fieldwork Sept 2024)",
+    "confidence": "publication (original survey)"
+  },
+  {
+    "id": "F3",
+    "topic": "F. Teach, don't sell / educational content",
+    "claim": "Consumers in the 2025 Sprout Social Index ranked originality of content as the #2 thing that makes a brand stand out on social, after product quality.",
+    "quote": "What makes brand content stand out: 1. Quality of product or service; 2. Originality of content; 3. How they engage with followers...",
+    "source": "Sprout Social Index 2025 PDF",
+    "url": "https://brandfolder.sproutsocial.com/VXTUTVL1/at/c5xxww63p5qnmhqrw5qsrb9n/index_2025_what-consumers-want-on-social.pdf",
+    "date": "2025 (fieldwork Sept 2024)",
+    "confidence": "publication (original survey)"
+  },
+  {
+    "id": "F4",
+    "topic": "F. Teach, don't sell / educational content",
+    "claim": "Sprout's 2025 Index lists salesy or corporate messaging and posting constantly without purpose among the things that turn consumers off brands.",
+    "quote": "Turn-offs include salesy or corporate messaging and posting constantly without purpose.",
+    "source": "Sprout Social Index 2025 PDF",
+    "url": "https://brandfolder.sproutsocial.com/VXTUTVL1/at/c5xxww63p5qnmhqrw5qsrb9n/index_2025_what-consumers-want-on-social.pdf",
+    "date": "2025",
+    "confidence": "publication (survey; phrased as findings, not a single % stat)"
+  },
+  {
+    "id": "F5",
+    "topic": "F. Teach, don't sell / educational content",
+    "claim": "Instagram's own business guidance says entertaining storytelling drives discovery and suggests connecting with your audience by teaching them something new.",
+    "quote": "\"Entertaining storytelling drives discovery for your business.\" Connect through shared interests, or teach them something new.",
+    "source": "Instagram for Business (official): 'Get discovered with Reels'",
+    "url": "https://business.instagram.com/instagram-reels",
+    "date": "undated (checked Oct 2026)",
+    "confidence": "official (undated)"
+  },
+  {
+    "id": "F6",
+    "topic": "F. Teach, don't sell / educational content",
+    "claim": "Meta's Reels guide recommends showing real people (customers, employees) in relatable, lo-fi settings, and formats like listicles, before/after, product demos and Q&A; it says Reel ads with a human presence have higher click-through rates.",
+    "quote": "Reel ads with a human presence have a higher CTR; show real people in relatable settings; formats: listicle, transition sequence, before and after, product demo, Q&A.",
+    "source": "Social Samosa summarizing Meta's 'Reels Performance Book' PDF",
+    "url": "https://socialsamosa.com/news-2/meta-reels-marketing-tips-latest-guide-6950438",
+    "date": "2024-09-05",
+    "confidence": "secondhand (ad-focused guide)"
+  },
+  {
+    "id": "F7",
+    "topic": "F. Teach, don't sell / educational content",
+    "claim": "HubSpot's 2025 State of Marketing found 21% of marketers say short-form video delivers the highest ROI of any format.",
+    "quote": "\"21% of marketers say short-form videos deliver the highest ROI.\"",
+    "source": "HubSpot blog (Precious Oboidhe), citing HubSpot 2025 State of Marketing",
+    "url": "https://blog.hubspot.com/marketing/video-marketing-statistics",
+    "date": "updated 2025-03-03",
+    "confidence": "publication (own survey)"
+  },
+  {
+    "id": "F8",
+    "topic": "F. Teach, don't sell / educational content",
+    "claim": "Meta says video makes up over 60% of all time spent on Facebook and Instagram.",
+    "quote": "Video makes up \"over 60% of all time spent in each app.\"",
+    "source": "Social Media Today (Andrew Hutchinson), on Meta's updated Reels Ads Guide",
+    "url": "https://www.socialmediatoday.com/news/meta-publishes-reels-ads-guide-instagram-facebook-video-marketing/752771/",
+    "date": "2025-07-10",
+    "confidence": "publication quoting official Meta guide"
+  },
+  {
+    "id": "G1",
+    "topic": "G. Reels basics for small brands",
+    "claim": "In January 2025 Instagram raised the maximum reel length from 90 seconds to 3 minutes and switched the profile grid from square to vertical.",
+    "quote": "Mosseri: \"We've always focused on short-form video, but we've heard that 90 seconds is too short\"; \"Square grids often crop vertical videos and photos too much.\"",
+    "source": "Storyboard18, quoting Adam Mosseri",
+    "url": "https://www.storyboard18.com/digital/instagram-extends-reels-to-three-minutes-and-updates-profile-layout-54043.htm",
+    "date": "2025-01-21",
+    "confidence": "publication (trade, not on preferred list) quoting official; consistent with Instagram Creators page stating 3-minute recommendation limit"
+  },
+  {
+    "id": "G2",
+    "topic": "G. Reels basics for small brands",
+    "claim": "Instagram recommends vertical, full-screen 9:16 video without borders, with text that doesn't cover most of the screen.",
+    "quote": "Use vertical video: format for full-screen 9x16 viewing without borders, and keep text from covering most of the screen.",
+    "source": "Instagram Creators blog (official): 'What Creators Need To Know About Instagram Recommendations'",
+    "url": "https://creators.instagram.com/blog/instagram-recommendations-eligibility-tips-creators",
+    "date": "2022-08-30 (updated 2023-04-25; page text checked Oct 2026)",
+    "confidence": "official"
+  },
+  {
+    "id": "G3",
+    "topic": "G. Reels basics for small brands",
+    "claim": "Since December 2025 Instagram limits posts and reels to 5 hashtags, and recommends fewer, more targeted hashtags instead of many generic ones.",
+    "quote": "Instagram: \"using fewer (up to 5) more targeted hashtags, rather than many generic ones\"; replaces a 3-hashtag limit it had tested over the past year.",
+    "source": "Social Media Today (Andrew Hutchinson), quoting Instagram's Threads announcement",
+    "url": "https://www.socialmediatoday.com/news/instagram-implements-new-limits-on-hashtag-use/808309/",
+    "date": "2025-12-18",
+    "confidence": "publication quoting official"
+  },
+  {
+    "id": "G4",
+    "topic": "G. Reels basics for small brands",
+    "claim": "Mosseri has said hashtags are no longer a primary way to increase reach on Instagram, though they help tell people what a post is about.",
+    "quote": "\"Hashtags are no longer a primary way to increase your reach on Instagram.\" (Apr 2025). May 2025: hashtags \"don't improve visibility on Instagram\" but are \"a great way to let people know what a post is about and connect posts.\"",
+    "source": "Social Media Today (Andrew Hutchinson), reporting Mosseri interview with Brock Johnson",
+    "url": "https://www.socialmediatoday.com/news/instagram-chief-answers-creator-questions/744813/",
+    "date": "2025-04-08",
+    "confidence": "publication quoting official (Mosseri); May 2025 quote via SMT 2025-12-18 hashtag article"
+  },
+  {
+    "id": "G5",
+    "topic": "G. Reels basics for small brands",
+    "claim": "Instagram advises putting relevant keywords and hashtags in your caption (not the comments) and aligning your handle and bio with your content so you show up in search.",
+    "quote": "Use searchable keywords: put relevant keywords and hashtags in captions, not comments, and align your handle and bio with your content.",
+    "source": "Instagram Creators blog (official): 'What Creators Need To Know About Instagram Recommendations'",
+    "url": "https://creators.instagram.com/blog/instagram-recommendations-eligibility-tips-creators",
+    "date": "2022-08-30 (updated 2023-04-25; page text checked Oct 2026)",
+    "confidence": "official"
+  },
+  {
+    "id": "G6",
+    "topic": "G. Reels basics for small brands",
+    "claim": "Mosseri says Instagram is improving how it analyzes video and captions to improve search and discovery.",
+    "quote": "Paraphrase: Instagram is improving its content analysis, including video and captions, to improve search and discovery.",
+    "source": "Social Media Today (Andrew Hutchinson), reporting Mosseri interview with Brock Johnson",
+    "url": "https://www.socialmediatoday.com/news/instagram-chief-answers-creator-questions/744813/",
+    "date": "2025-04-08",
+    "confidence": "publication paraphrasing official"
+  },
+  {
+    "id": "G7",
+    "topic": "G. Reels basics for small brands",
+    "claim": "Instagram's free 'Edits' video app launched April 22, 2025 on iOS and Android, with auto-generated, customizable captions and green screen.",
+    "quote": "Meta's App Store description: \"Generate captions automatically and customize how they appear in your video.\" Free; launched April 22, 2025; green screen; camera records up to 10-minute clips.",
+    "source": "9to5Mac (Michael Burkhardt)",
+    "url": "https://9to5mac.com/2025/04/22/instagram-edits-launch-app-store/",
+    "date": "2025-04-22",
+    "confidence": "publication (tech press, not on preferred list; launch also covered by Bloomberg & MacRumors same day)"
+  },
+  {
+    "id": "G8",
+    "topic": "G. Reels basics for small brands",
+    "claim": "Only public accounts can be recommended to non-followers.",
+    "quote": "\"Keep your account public\": only public accounts are recommended.",
+    "source": "Instagram Creators blog (official): 'What Creators Need To Know About Instagram Recommendations'",
+    "url": "https://creators.instagram.com/blog/instagram-recommendations-eligibility-tips-creators",
+    "date": "2022-08-30 (updated 2023-04-25; page text checked Oct 2026)",
+    "confidence": "official"
+  },
+  {
+    "id": "G9",
+    "topic": "G. Reels basics for small brands",
+    "claim": "Since December 2025, Instagram's 'Your Algorithm' lets viewers see and edit the topics shaping their Reels recommendations.",
+    "quote": "Users can pick topics to see more or less of; launched in the U.S. Dec 10, 2025, rolling out globally in English 'soon'.",
+    "source": "TechCrunch (Aisha Malik)",
+    "url": "https://techcrunch.com/2025/12/10/instagrams-new-your-algorithm-tool-gives-you-more-control-over-the-reels-you-see",
+    "date": "2025-12-10",
+    "confidence": "publication reporting official launch"
+  },
+  {
+    "id": "G10",
+    "topic": "G. Reels basics for small brands",
+    "claim": "To be boosted as an ad, a reel must be under 60 seconds in 9:16, and reels with copyrighted music, interactive stickers or filters can't be boosted.",
+    "quote": "Boosted Reels \"must be less than 60 seconds with a 9:16 aspect ratio\"; boosting unavailable for reels using copyrighted music, GIFs, interactive stickers, face/camera filters.",
+    "source": "Instagram for Business (official): 'Get discovered with Reels'",
+    "url": "https://business.instagram.com/instagram-reels",
+    "date": "undated (checked Oct 2026)",
+    "confidence": "official (undated - verify in-app)"
+  },
+  {
+    "id": "G11",
+    "topic": "G. Reels basics for small brands",
+    "claim": "Since July 10, 2025, public photos, videos and reels from professional accounts of users over 18 can appear in Google and other search engines, unless turned off in settings.",
+    "quote": "Setting: \"Allow public photos and videos to appear in search engine results\" - on by default for eligible public professional accounts 18+.",
+    "source": "PPC Land",
+    "url": "https://ppc.land/instagram-content-becomes-searchable-on-google-starting-july-10/",
+    "date": "2025-07-09",
+    "confidence": "secondhand (no major publication found; verify the setting in-app before using)"
+  },
+  {
+    "id": "X1",
+    "topic": "DO NOT USE",
+    "claim": "'85% of (Instagram/Facebook) videos are watched without sound'",
+    "quote": "",
+    "source": "",
+    "url": "https://www.digiday.com/media/silent-world-facebook-video/",
+    "date": "",
+    "confidence": "DO NOT USE: Origin is a 2016 Digiday article citing a few publishers (LittleThings, Mic) and one agency, phrased 'as much as 85%'. Not a Meta measurement, Facebook-only, pre-Reels, and Meta now pitches Reels as sound-on."
+  },
+  {
+    "id": "X2",
+    "topic": "DO NOT USE",
+    "claim": "'You have 1.7 seconds to hook someone' / 'people decide to scroll in 1.7 seconds'",
+    "quote": "",
+    "source": "",
+    "url": "https://www.socialmediatoday.com/news/facebook-releases-new-guide-to-help-advertisers-maximize-video-ad-performan/450818",
+    "date": "",
+    "confidence": "DO NOT USE: The real 2016 Facebook figure is average time spent with a piece of feed content on mobile (1.7 s vs 2.5 s desktop). It is not a scroll-decision deadline and not Reels data. Use B6 only with that wording and the 2016 date."
+  },
+  {
+    "id": "X3",
+    "topic": "DO NOT USE",
+    "claim": "'Sends are THE single most important signal'",
+    "quote": "",
+    "source": "",
+    "url": "https://searchenginejournal.com/instagram-algorithm-shift-why-sends-matter-more-than-ever/521389",
+    "date": "",
+    "confidence": "DO NOT USE: Mosseri said sends per reach is 'one of the most important signals' and that sends are 'slightly more important' for unconnected reach; in Jan 2025 he named watch time, likes and sends together as the top three."
+  },
+  {
+    "id": "X4",
+    "topic": "DO NOT USE",
+    "claim": "'1 DM share = 15 likes, 1 save = 10 likes' / 'likes and follower count have near-zero weight in 2026'",
+    "quote": "",
+    "source": "",
+    "url": "https://www.pulse-advertising.com/resources/social-media-news/instagram-algorithm-changes-2026/",
+    "date": "",
+    "confidence": "DO NOT USE: Agency blog (Pulse Advertising, Apr 2026) presents these as its own estimates with no Instagram source. Contradicts Mosseri naming likes a top-3 signal."
+  },
+  {
+    "id": "X5",
+    "topic": "DO NOT USE",
+    "claim": "'Business accounts get 7-12% organic reach vs 10-20% for personal accounts'",
+    "quote": "",
+    "source": "",
+    "url": "https://www.pulse-advertising.com/resources/social-media-news/instagram-algorithm-changes-2026/",
+    "date": "",
+    "confidence": "DO NOT USE: Same agency blog, no source cited."
+  },
+  {
+    "id": "X6",
+    "topic": "DO NOT USE",
+    "claim": "'Reels can now be 20 minutes long'",
+    "quote": "",
+    "source": "",
+    "url": "https://www.inro.social/blog/instagram-reels-can-now-be-20-minutes-long-new-time-limit-explained-2025",
+    "date": "",
+    "confidence": "DO NOT USE: Only third-party blogs claim this (limited test at most); no Instagram/Meta announcement found. Official max remains 3 minutes, and recommendation eligibility is 3 minutes or less."
+  },
+  {
+    "id": "X7",
+    "topic": "DO NOT USE",
+    "claim": "'Trial reels increased non-follower reach by 80%'",
+    "quote": "",
+    "source": "",
+    "url": "https://socialmediatoday.com/news/instagram-trial-reels-increase-reach-tests/750121/",
+    "date": "",
+    "confidence": "DO NOT USE: Misreading (even repeated by Social Media Today in April 2026). Instagram's figure is that 80% of creators saw an increase in non-follower reach; the size of the increase wasn't given."
+  },
+  {
+    "id": "X8",
+    "topic": "DO NOT USE",
+    "claim": "'Instagram recommends 2 feed posts a week and 2 stories a day'",
+    "quote": "",
+    "source": "",
+    "url": "https://www.socialmediatoday.com/news/facebook-publishes-new-guide-for-instagram-creators/553589/",
+    "date": "",
+    "confidence": "DO NOT USE: No source found on Instagram/@creators or a major publication. The only official creator-guide frequency found is from 2019: 'posting at least once across Feed, Stories, Live and IGTV per week' (superseded). Mosseri's later stance: no fixed number; post consistently and as much as you sustainably can."
+  },
+  {
+    "id": "X9",
+    "topic": "DO NOT USE",
+    "claim": "'Use 3-5 hashtags because Mosseri recommends it'",
+    "quote": "",
+    "source": "",
+    "url": "https://www.socialmediatoday.com/news/instagram-implements-new-limits-on-hashtag-use/808309/",
+    "date": "",
+    "confidence": "DO NOT USE: Mosseri did not give a number. The 5 is a hard limit set by Instagram (Dec 2025), with the advice to use fewer, targeted hashtags; Mosseri says hashtags don't meaningfully increase reach."
+  },
+  {
+    "id": "X10",
+    "topic": "DO NOT USE",
+    "claim": "'Meta: Reels are shared 3.5 billion times a day'",
+    "quote": "",
+    "source": "",
+    "url": "https://ppc.land/meta-reports-3-5-billion-daily-reels-shares-unveils-new-marketing-api-features-for-developers/",
+    "date": "",
+    "confidence": "DO NOT USE: Only found in PPC Land without a named speaker or earnings call; could not trace to a primary Meta source. Do not use unless found in a Meta earnings transcript."
+  },
+  {
+    "id": "X11",
+    "topic": "DO NOT USE",
+    "claim": "'Over 50% of what you see on Instagram is from accounts you don't follow' (Zuckerberg)",
+    "quote": "",
+    "source": "",
+    "url": "https://www.socialmediatoday.com/news/instagram-chief-answers-creator-questions/744813/",
+    "date": "",
+    "confidence": "DO NOT USE: Seen only secondhand (SMT citing Benzinga); not verified against a transcript. The verified figure is ~40% (Zuckerberg, Q1 2023) - see A14."
+  },
+  {
+    "id": "X12",
+    "topic": "DO NOT USE",
+    "claim": "'Reels under 90 seconds are eligible to be recommended'",
+    "quote": "",
+    "source": "",
+    "url": "https://business.instagram.com/instagram-reels",
+    "date": "",
+    "confidence": "DO NOT USE: Still on Instagram's business page but outdated; the Instagram Creators page says recommended reels must be 3 minutes or less (after the Jan 2025 change)."
+  },
+  {
+    "id": "X13",
+    "topic": "DO NOT USE",
+    "claim": "'Muted reels / reels that are mostly text get downranked'",
+    "quote": "",
+    "source": "",
+    "url": "https://www.socialmediatoday.com/news/instagram-shares-new-explainer-on-how-its-feed-reels-and-stories-algorithm/651705/",
+    "date": "",
+    "confidence": "DO NOT USE: From Instagram's 2021-2023 guidance as summarized secondhand; current official wording is narrower (no borders, text shouldn't cover most of the screen, no watermarks). Use G2/A7 instead."
+  }
+]

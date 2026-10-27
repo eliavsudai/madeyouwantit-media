@@ -1,0 +1,3394 @@
+{
+ "campaign": "lessons",
+ "created": "2026-10-27",
+ "voice": "Kokoro af_heart @0.92",
+ "rotation_rule": "never the same lesson type twice in a row",
+ "scenarios": [
+  {
+   "id": "s01",
+   "type": "reach",
+   "audience": "Small brands",
+   "hook": "Followers don't decide your reach. 3 signals do.",
+   "lines": [
+    {
+     "say": "Followers don't decide who sees your reel. *Three* signals do.",
+     "scene": {
+      "kind": "hook",
+      "label": "Small brands",
+      "headline": "Followers don't decide your reach. *3* signals do."
+     }
+    },
+    {
+     "say": "Adam Mosseri, the head of Instagram, named them in January.",
+     "scene": {
+      "kind": "quote",
+      "quote": "The top three signals that matter most for ranking are *watch time,* *likes* and *sends.*",
+      "who": "Adam Mosseri",
+      "role": "Head of Instagram · Jan 2025"
+     }
+    },
+    {
+     "say": "*Watch* *time*. *Likes* per reach. And *sends* per reach.",
+     "scene": {
+      "kind": "icons",
+      "kinds": [
+       "clock",
+       "heart",
+       "send"
+      ],
+      "names": {
+       "clock": "watch time",
+       "heart": "likes / reach",
+       "send": "sends / reach"
+      },
+      "highlight": null
+     }
+    },
+    {
+     "say": "So which one puts you in front of strangers?",
+     "scene": {
+      "kind": "feed",
+      "speed": 1100
+     }
+    },
+    {
+     "say": "*Sends*. A share in someone's DMs.",
+     "scene": {
+      "kind": "icons",
+      "kinds": [
+       "clock",
+       "heart",
+       "send"
+      ],
+      "names": {
+       "clock": "watch time",
+       "heart": "likes / reach",
+       "send": "sends / reach"
+      },
+      "highlight": "send",
+      "hl_at": 0.1
+     }
+    },
+    {
+     "say": "He says likes count slightly more with your *followers*, and sends count slightly more with people who *don't* follow you yet.",
+     "scene": {
+      "kind": "icons",
+      "kinds": [
+       "heart",
+       "send"
+      ],
+      "names": {
+       "heart": "likes / your followers",
+       "send": "sends / new people"
+      },
+      "highlight": "send",
+      "hl_at": 3.2,
+      "title": "Where each counts more",
+      "title_size": 80,
+      "note": "Per Adam Mosseri, Jan 2025"
+     }
+    },
+    {
+     "say": "So before you post, ask one question.",
+     "scene": {
+      "kind": "statement",
+      "font": "anton",
+      "text": "Before you post:"
+     }
+    },
+    {
+     "say": "Would someone *send* this to a friend?",
+     "scene": {
+      "kind": "statement",
+      "font": "anton",
+      "size": 150,
+      "text": "Would someone *send* this to a friend?"
+     }
+    },
+    {
+     "say": "That's what we build into every account we run.",
+     "scene": {
+      "kind": "work",
+      "title": "Our work"
+     }
+    },
+    {
+     "say": "Want it done for you? DM *DAILY*. Your first ad is free.",
+     "scene": {
+      "kind": "end"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "claim": "Top three ranking signals: watch time, likes, sends; track average watch time, likes per reach, sends per reach.",
+     "source": "Adam Mosseri, via Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/instagram-shares-algorithm-2025/738034/",
+     "date": "2025-01-22"
+    },
+    {
+     "claim": "Likes slightly more important for connected content, sends slightly more important for unconnected content.",
+     "source": "Adam Mosseri, via Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/instagram-shares-algorithm-2025/738034/",
+     "date": "2025-01-22"
+    }
+   ],
+   "work": [
+    "a_pin.jpg",
+    "b_forever.jpg",
+    "c_holdsup.jpg"
+   ],
+   "caption": "Followers don't decide your reach. 3 signals do.\n\n1. Watch time  2. Likes per reach  3. Sends per reach\nLikes weigh a bit more with your followers. Sends weigh a bit more with people who don't follow you yet.\nBefore you post, ask: would someone send this to a friend?\n\nSource: Adam Mosseri, Head of Instagram (via Social Media Today, Jan 2025)\n\nThis is exactly what we build into every account we run.\nSave this for your next post.\nFirst ad free · DM 'DAILY'\n\n#smallbusinessmarketing #instagramtips #reelstips #contentstrategy #smallbusiness",
+   "status": "scheduled",
+   "post_id": "2026-10-27-lesson-s01",
+   "length_s": 36.8,
+   "when": "2026-10-27T12:00:00-06:00"
+  },
+  {
+   "id": "s02",
+   "type": "hooks",
+   "audience": "Product businesses",
+   "hook": "Your reel gets judged in 3 seconds. Here's what decides it.",
+   "lines": [
+    {
+     "say": "Your reel gets judged in *three* seconds.",
+     "scene": {
+      "kind": "hook",
+      "label": "Product businesses",
+      "headline": "Your reel gets judged in *3* seconds."
+     }
+    },
+    {
+     "say": "Instagram actually measures it.",
+     "scene": {
+      "kind": "quote",
+      "size": 68,
+      "quote": "Skip rate is the percentage of views from people who decided to skip your reel during those *first 3 seconds.*",
+      "who": "Instagram",
+      "role": "Reels insights · Aug 2025"
+     }
+    },
+    {
+     "say": "It's called *skip* *rate*. It's in your Insights, next to every reel.",
+     "scene": {
+      "kind": "timeline",
+      "max": 10,
+      "mark": 3,
+      "mark_label": "SKIP ZONE",
+      "title": "Skip rate",
+      "play_speed": 1.2
+     }
+    },
+    {
+     "say": "So what makes someone stay past second *three*?",
+     "scene": {
+      "kind": "feed",
+      "speed": 1300,
+      "stop_at": 1.6,
+      "stop_card": 4,
+      "labels": {
+       "4": "3 MISTAKES"
+      }
+     }
+    },
+    {
+     "say": "Not your logo. Not a slow hello.",
+     "scene": {
+      "kind": "compare",
+      "weak": "Hi everyone! Welcome back to our page, today we want to share",
+      "strong": "*3* mistakes that make people skip your bakery",
+      "verdict_at": 1.0
+     }
+    },
+    {
+     "say": "Three things, in the very first frame.",
+     "scene": {
+      "kind": "list",
+      "title": "In the first frame",
+      "items": [
+       "Say who it's *for*",
+       "Put a *number* in the headline",
+       "Flip a *belief* they hold"
+      ]
+     }
+    },
+    {
+     "say": "Say who it's *for*."
+    },
+    {
+     "say": "Put a *number* in the headline."
+    },
+    {
+     "say": "And flip a *belief* they already hold."
+    },
+    {
+     "say": "Look at the first frame of this reel. It did all three.",
+     "scene": {
+      "kind": "list",
+      "reveal": "time",
+      "every": 0.7,
+      "title": "This reel's first frame",
+      "items": [
+       "Who: *product businesses*",
+       "Number: *3* seconds",
+       "Belief flipped: *you have time*"
+      ]
+     }
+    },
+    {
+     "say": "That's what we build into every account we run.",
+     "scene": {
+      "kind": "work",
+      "title": "Our work"
+     }
+    },
+    {
+     "say": "Want it done for you? DM *DAILY*. Your first ad is free.",
+     "scene": {
+      "kind": "end"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "claim": "Skip rate = percentage of views that skipped the reel in the first 3 seconds; replaced view rate (Aug 2025).",
+     "source": "Instagram, via Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/instagram-adds-retention-insights-reels/758464/",
+     "date": "2025-08-24"
+    },
+    {
+     "claim": "Instagram's tip for reaching new audiences: hook viewers fast, within the first few seconds.",
+     "source": "Instagram Creators blog",
+     "url": "https://creators.instagram.com/blog/instagram-recommendations-eligibility-tips-creators",
+     "date": "2023-04-25"
+    }
+   ],
+   "work": [
+    "a_pin.jpg",
+    "b_forever.jpg",
+    "c_holdsup.jpg"
+   ],
+   "caption": "Your reel gets judged in 3 seconds.\n\nInstagram's skip rate = % of viewers who swipe away in the first 3 seconds. It's in your Insights for every reel.\nIn the very first frame: say who it's for, put a number in the headline, flip a belief they hold.\nNo logo intro. No slow hello.\n\nSource: Instagram reel insights (via Social Media Today, Aug 2025); Instagram Creators\n\nThis is exactly what we build into every account we run.\nSave this for your next post.\nFirst ad free · DM 'DAILY'\n\n#smallbusinessmarketing #instagramtips #reelstips #contentstrategy #smallbusiness",
+   "status": "scheduled",
+   "post_id": "2026-10-27-lesson-s02",
+   "length_s": 33.7,
+   "when": "2026-10-27T18:00:00-06:00"
+  },
+  {
+   "id": "s03",
+   "type": "retention",
+   "audience": "Small brands",
+   "hook": "1 line in your Insights shows exactly where people leave.",
+   "lines": [
+    {
+     "say": "One line in your Insights shows exactly where people leave your reel.",
+     "scene": {
+      "kind": "hook",
+      "label": "Small brands",
+      "headline": "*1* line in your Insights shows where people *leave*."
+     }
+    },
+    {
+     "say": "It's the *retention* chart. Every reel has one.",
+     "scene": {
+      "kind": "curve",
+      "pts": [
+       [
+        0,
+        100
+       ],
+       [
+        3,
+        55
+       ],
+       [
+        10,
+        40
+       ],
+       [
+        20,
+        31
+       ],
+       [
+        30,
+        25
+       ]
+      ],
+      "title": "Retention",
+      "note": "Illustration"
+     }
+    },
+    {
+     "say": "Instagram says it will always slope *down*."
+    },
+    {
+     "say": "But the *flatter* the line, the more engaged your audience is.",
+     "scene": {
+      "kind": "curve",
+      "title": "Flatter = more engaged",
+      "curves": [
+       {
+        "pts": [
+         [
+          0,
+          100
+         ],
+         [
+          3,
+          45
+         ],
+         [
+          10,
+          28
+         ],
+         [
+          20,
+          18
+         ],
+         [
+          30,
+          12
+         ]
+        ],
+        "color": "ink",
+        "label": "steep"
+       },
+       {
+        "pts": [
+         [
+          0,
+          100
+         ],
+         [
+          3,
+          78
+         ],
+         [
+          10,
+          66
+         ],
+         [
+          20,
+          58
+         ],
+         [
+          30,
+          52
+         ]
+        ],
+        "color": "red",
+        "label": "flat"
+       }
+      ],
+      "note": "Illustration"
+     }
+    },
+    {
+     "say": "And it matters. Watch time is one of Instagram's top *three* ranking signals.",
+     "scene": {
+      "kind": "icons",
+      "kinds": [
+       "clock",
+       "heart",
+       "send"
+      ],
+      "names": {
+       "clock": "watch time",
+       "heart": "likes / reach",
+       "send": "sends / reach"
+      },
+      "highlight": "clock",
+      "hl_at": 1.2
+     }
+    },
+    {
+     "say": "So where does yours drop?",
+     "scene": {
+      "kind": "curve",
+      "pts": [
+       [
+        0,
+        100
+       ],
+       [
+        3,
+        50
+       ],
+       [
+        12,
+        44
+       ],
+       [
+        16,
+        26
+       ],
+       [
+        30,
+        21
+       ]
+      ],
+      "title": "Read the drop",
+      "marks": [
+       {
+        "x": 2,
+        "label": "hook",
+        "at": 0.6
+       },
+       {
+        "x": 14,
+        "label": "the wait",
+        "at": 2.4
+       }
+      ],
+      "note": "Illustration"
+     }
+    },
+    {
+     "say": "A cliff in the first seconds means the *hook* missed."
+    },
+    {
+     "say": "A slide in the middle means you made them *wait*."
+    },
+    {
+     "say": "Fix the second where it drops. Not the whole video.",
+     "scene": {
+      "kind": "statement",
+      "font": "anton",
+      "size": 140,
+      "text": "Fix the *second* it drops."
+     }
+    },
+    {
+     "say": "That's what we build into every account we run.",
+     "scene": {
+      "kind": "work",
+      "title": "Our work"
+     }
+    },
+    {
+     "say": "Want it done for you? DM *DAILY*. Your first ad is free.",
+     "scene": {
+      "kind": "end"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "source": "Instagram reel insights, via Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/instagram-adds-retention-insights-reels/758464/",
+     "date": "2025-08-24"
+    },
+    {
+     "source": "Adam Mosseri, via Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/instagram-shares-algorithm-2025/738034/",
+     "date": "2025-01-22"
+    }
+   ],
+   "work": [
+    "a_pin.jpg",
+    "b_forever.jpg",
+    "c_holdsup.jpg"
+   ],
+   "caption": "1 line in your Insights shows exactly where people leave your reel.\n\nIt's the Retention chart. Instagram: it always slopes down, but the flatter the line, the more engaged your audience.\nCliff at the start = the hook missed. Slide in the middle = you made them wait.\nWatch time is one of Instagram's top 3 ranking signals.\n\nSource: Instagram reel insights (Aug 2025); Adam Mosseri (Jan 2025), via Social Media Today\n\nThis is exactly what we build into every account we run.\nSave this for your next post.\nFirst ad free · DM 'DAILY'\n\n#smallbusinessmarketing #instagramtips #reelstips #contentstrategy #smallbusiness",
+   "status": "unused"
+  },
+  {
+   "id": "s04",
+   "type": "shares",
+   "audience": "Product businesses",
+   "hook": "Instagram's boss keeps pointing at 1 number.",
+   "lines": [
+    {
+     "say": "Instagram's boss keeps pointing at *one* number.",
+     "scene": {
+      "kind": "hook",
+      "label": "Product businesses",
+      "headline": "Instagram's boss keeps pointing at *1* number."
+     }
+    },
+    {
+     "say": "*Sends* per *reach*.",
+     "scene": {
+      "kind": "statement",
+      "font": "anton",
+      "size": 170,
+      "text": "*Sends* ÷ reach"
+     }
+    },
+    {
+     "say": "Out of everyone who saw your post, how many sent it to a friend in a DM?",
+     "scene": {
+      "kind": "quote",
+      "size": 66,
+      "quote": "One of the most important signals we use in ranking is *sends per reach.*",
+      "who": "Adam Mosseri",
+      "role": "Head of Instagram · 2024"
+     }
+    },
+    {
+     "say": "And DMs are where sharing lives now.",
+     "scene": {
+      "kind": "list",
+      "reveal": "time",
+      "every": 0.6,
+      "title": "Where posts get shared most",
+      "items": [
+       "*DMs*",
+       "Stories",
+       "Feed"
+      ]
+     }
+    },
+    {
+     "say": "He says way more posts get shared into *DMs* than into Stories, and more into Stories than into the feed."
+    },
+    {
+     "say": "So what makes someone hit *send*?",
+     "scene": {
+      "kind": "feed",
+      "speed": 1200,
+      "stop_at": 1.4,
+      "stop_card": 4,
+      "labels": {
+       "4": "THIS IS YOU"
+      }
+     }
+    },
+    {
+     "say": "Something *useful* they'll need later. Or something that's *exactly* their friend."
+    },
+    {
+     "say": "Make the post someone sends with three words: *this* *is* *you*.",
+     "scene": {
+      "kind": "statement",
+      "font": "anton",
+      "size": 150,
+      "text": "“This is *you*.”"
+     }
+    },
+    {
+     "say": "That's what we build into every account we run.",
+     "scene": {
+      "kind": "work",
+      "title": "Our work"
+     }
+    },
+    {
+     "say": "Want it done for you? DM *DAILY*. Your first ad is free.",
+     "scene": {
+      "kind": "end"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "source": "Adam Mosseri, via Search Engine Journal",
+     "url": "https://searchenginejournal.com/instagram-algorithm-shift-why-sends-matter-more-than-ever/",
+     "date": "2024-07-03"
+    },
+    {
+     "source": "Adam Mosseri interview, Business Insider",
+     "url": "https://www.yahoo.com/news/instagram-head-adam-mosseri-paradigm-100002931.html",
+     "date": "2026"
+    }
+   ],
+   "work": [
+    "a_pin.jpg",
+    "b_forever.jpg",
+    "c_holdsup.jpg"
+   ],
+   "caption": "Instagram's boss keeps pointing at 1 number: sends per reach.\n\nOut of everyone who saw your post, how many sent it to a friend in a DM?\nMosseri: way more posts get shared into DMs than into Stories, and more into Stories than into the feed.\nMake the post someone sends with 3 words: this is you.\n\nSource: Adam Mosseri (Search Engine Journal, 2024; Business Insider interview)\n\nThis is exactly what we build into every account we run.\nSave this for your next post.\nFirst ad free · DM 'DAILY'\n\n#smallbusinessmarketing #instagramtips #reelstips #contentstrategy #smallbusiness",
+   "status": "unused"
+  },
+  {
+   "id": "s05",
+   "type": "teach",
+   "audience": "Small brands",
+   "hook": "2 in 3 people say the best brand content isn't an ad.",
+   "lines": [
+    {
+     "say": "Two in three people say the most engaging brand content isn't an ad.",
+     "scene": {
+      "kind": "hook",
+      "label": "Small brands",
+      "headline": "*2 in 3* people say the best brand content *isn't an ad*."
+     }
+    },
+    {
+     "say": "In a Sprout Social survey of more than *four thousand five hundred* people,",
+     "scene": {
+      "kind": "counter",
+      "to": 4500,
+      "suffix": "+",
+      "label": "people surveyed · Sprout Social",
+      "over": 1.4
+     }
+    },
+    {
+     "say": "two-thirds picked content that *educates* and *entertains*.",
+     "scene": {
+      "kind": "statement",
+      "font": "anton",
+      "size": 150,
+      "text": "*Educate* + entertain"
+     }
+    },
+    {
+     "say": "In Sprout's 2025 Index, *polished*, *product-centric* content ranked *least* important.",
+     "scene": {
+      "kind": "list",
+      "reveal": "time",
+      "every": 0.6,
+      "title": "What people value (2025)",
+      "items": [
+       "*Relatable*",
+       "*Authentic*",
+       "*Entertaining*",
+       "Polished & product-centric: last"
+      ]
+     }
+    },
+    {
+     "say": "And salesy messaging made the list of turn-offs."
+    },
+    {
+     "say": "So what do you post instead?",
+     "scene": {
+      "kind": "feed",
+      "speed": 1100
+     }
+    },
+    {
+     "say": "Teach the thing you know better than anyone.",
+     "scene": {
+      "kind": "statement",
+      "font": "serif",
+      "size": 110,
+      "text": "Teach what you know *better than anyone.*"
+     }
+    },
+    {
+     "say": "A florist: how to keep tulips standing. A bakery: why the crust crackles.",
+     "scene": {
+      "kind": "compare",
+      "weak": "New bouquets in store now! Come visit us",
+      "strong": "Why your tulips *droop* (and the *1* fix)",
+      "weak_label": "AD",
+      "strong_label": "LESSON",
+      "verdict_at": 1.4
+     }
+    },
+    {
+     "say": "The product shows up at the end, as the *answer*."
+    },
+    {
+     "say": "That's what we build into every account we run.",
+     "scene": {
+      "kind": "work",
+      "title": "Our work"
+     }
+    },
+    {
+     "say": "Want it done for you? DM *DAILY*. Your first ad is free.",
+     "scene": {
+      "kind": "end"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "source": "Sprout Social 2024 Content Strategy Report",
+     "url": "https://sproutsocial.com/insights/data/2024-social-content-strategy-report/",
+     "date": "2024"
+    },
+    {
+     "source": "Sprout Social Index 2025",
+     "url": "https://sproutsocial.com/insights/index/",
+     "date": "2025"
+    }
+   ],
+   "work": [
+    "a_pin.jpg",
+    "b_forever.jpg",
+    "c_holdsup.jpg"
+   ],
+   "caption": "2 in 3 people say the most engaging brand content isn't an ad.\n\nTwo-thirds of 4,500+ people chose content that educates AND entertains.\nIn the 2025 Index, polished, product-centric content ranked least important; salesy messaging turns people off.\nTeach what you know best. Let the product be the answer at the end.\n\nSource: Sprout Social 2024 Content Strategy Report; Sprout Social Index 2025\n\nThis is exactly what we build into every account we run.\nSave this for your next post.\nFirst ad free · DM 'DAILY'\n\n#smallbusinessmarketing #instagramtips #reelstips #contentstrategy #smallbusiness",
+   "status": "unused"
+  },
+  {
+   "id": "s06",
+   "type": "testing",
+   "audience": "Small brands",
+   "hook": "Posting 3–5 times a week: about 12% more reach per post.",
+   "lines": [
+    {
+     "say": "Posting three to five times a week got about *twelve* percent more reach per post.",
+     "scene": {
+      "kind": "hook",
+      "label": "Small brands",
+      "headline": "Post *3–5x* a week: about *+12%* reach per post."
+     }
+    },
+    {
+     "say": "That's from Buffer's analysis of *2.1 million* posts.",
+     "scene": {
+      "kind": "counter",
+      "to": 2.1,
+      "decimals": 1,
+      "suffix": "M",
+      "label": "posts analyzed · Buffer, 2025",
+      "over": 1.2
+     }
+    },
+    {
+     "say": "Compared with posting once or twice a week, reach per post climbed.",
+     "scene": {
+      "kind": "bars",
+      "title": "Reach per post vs 1–2 posts/week",
+      "unit": "%",
+      "bars": [
+       {
+        "label": "1–2 posts a week",
+        "value": 0.001,
+        "text": "baseline"
+       },
+       {
+        "label": "3–5 posts a week",
+        "value": 12,
+        "text": "+12%"
+       },
+       {
+        "label": "10+ posts a week",
+        "value": 24,
+        "text": "+24%",
+        "color": "red"
+       }
+      ],
+      "maxv": 30,
+      "note": "Source: Buffer, Aug 2025"
+     }
+    },
+    {
+     "say": "About *twelve* percent at three to five. About *twenty-four* at ten or more."
+    },
+    {
+     "say": "Weekly follower growth more than *doubled*.",
+     "scene": {
+      "kind": "bars",
+      "title": "Weekly follower growth",
+      "bars": [
+       {
+        "label": "1–2 posts a week",
+        "value": 0.12,
+        "text": "0.12%"
+       },
+       {
+        "label": "3–5 posts a week",
+        "value": 0.26,
+        "text": "0.26%",
+        "color": "red"
+       }
+      ],
+      "maxv": 0.35,
+      "note": "Source: Buffer, Aug 2025"
+     }
+    },
+    {
+     "say": "So is it just volume?",
+     "scene": {
+      "kind": "statement",
+      "font": "anton",
+      "size": 160,
+      "text": "Just volume?"
+     }
+    },
+    {
+     "say": "Not quite. Mosseri's advice: *experiment*, and post as much as you can without burning out.",
+     "scene": {
+      "kind": "statement",
+      "font": "serif",
+      "size": 104,
+      "text": "Experiment. Post as much as you can. *Avoid burnout.*",
+      "sub": "Adam Mosseri's advice, 2026 (paraphrased)"
+     }
+    },
+    {
+     "say": "Every post is a try. The tries are how you find the one that *takes* *off*."
+    },
+    {
+     "say": "That's what we build into every account we run.",
+     "scene": {
+      "kind": "work",
+      "title": "Our work"
+     }
+    },
+    {
+     "say": "Want it done for you? DM *DAILY*. Your first ad is free.",
+     "scene": {
+      "kind": "end"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "source": "Buffer, analysis of 2.1M posts",
+     "url": "https://buffer.com/resources/how-often-to-post-on-instagram/",
+     "date": "2025-08-13"
+    },
+    {
+     "source": "Adam Mosseri, via Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/instagram-chief-shares-algorithm-insights-and-posting-tips/",
+     "date": "2026-09-24"
+    }
+   ],
+   "work": [
+    "a_pin.jpg",
+    "b_forever.jpg",
+    "c_holdsup.jpg"
+   ],
+   "caption": "Posting 3–5 times a week: about 12% more reach per post.\n\nBuffer looked at 2.1M posts: vs 1–2 posts/week, reach per post was ~+12% at 3–5 and ~+24% at 10+.\nWeekly follower growth more than doubled (0.12% → 0.26%).\nMosseri: experiment, post as much as you can, avoid burnout.\n\nSource: Buffer (Aug 2025); Adam Mosseri via Social Media Today (2026)\n\nThis is exactly what we build into every account we run.\nSave this for your next post.\nFirst ad free · DM 'DAILY'\n\n#smallbusinessmarketing #instagramtips #reelstips #contentstrategy #smallbusiness",
+   "status": "unused"
+  },
+  {
+   "id": "s07",
+   "type": "product",
+   "audience": "Candle shops",
+   "hook": "How a candle shop turns 1 candle into 3 reels people send.",
+   "lines": [
+    {
+     "say": "Here's how a candle shop could turn *one* candle into *three* reels people send.",
+     "scene": {
+      "kind": "hook",
+      "label": "Candle shops",
+      "headline": "*1* candle. *3* reels people actually *send*."
+     }
+    },
+    {
+     "say": "Reel one: a fix. 'Why your candle tunnels, and how to stop it.'",
+     "scene": {
+      "kind": "compare",
+      "weak": "Our new candle is here! Shop now",
+      "strong": "Why your candle *tunnels* (and the fix)",
+      "weak_label": "AD",
+      "strong_label": "REEL 1",
+      "verdict_at": 1.6
+     }
+    },
+    {
+     "say": "Reel two: a myth. 'Three things that shorten a candle's life.'",
+     "scene": {
+      "kind": "compare",
+      "weak": "20% off all candles this weekend",
+      "strong": "*3* things that shorten your candle's life",
+      "weak_label": "AD",
+      "strong_label": "REEL 2",
+      "verdict_at": 1.6
+     }
+    },
+    {
+     "say": "Reel three: a number from your own shop. 'How long one batch really takes.'",
+     "scene": {
+      "kind": "compare",
+      "weak": "Handmade with love",
+      "strong": "One batch takes *X* hours. Here's why",
+      "weak_label": "AD",
+      "strong_label": "REEL 3",
+      "verdict_at": 1.6
+     }
+    },
+    {
+     "say": "Notice what's missing? The pitch.",
+     "scene": {
+      "kind": "statement",
+      "font": "anton",
+      "size": 160,
+      "text": "No pitch."
+     }
+    },
+    {
+     "say": "Each one teaches first, and the candle appears at the end, as the *answer*."
+    },
+    {
+     "say": "Why it works: sends count slightly more with people who *don't* follow you yet.",
+     "scene": {
+      "kind": "icons",
+      "kinds": [
+       "heart",
+       "send"
+      ],
+      "names": {
+       "heart": "likes / your followers",
+       "send": "sends / new people"
+      },
+      "highlight": "send",
+      "hl_at": 1.0,
+      "title": "Where each counts more",
+      "title_size": 80
+     }
+    },
+    {
+     "say": "People send tips. They don't send ads.",
+     "scene": {
+      "kind": "statement",
+      "font": "serif",
+      "size": 120,
+      "text": "People send *tips.* Not ads."
+     }
+    },
+    {
+     "say": "That's what we build into every account we run.",
+     "scene": {
+      "kind": "work",
+      "title": "Our work"
+     }
+    },
+    {
+     "say": "Want it done for you? DM *DAILY*. Your first ad is free.",
+     "scene": {
+      "kind": "end"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "source": "Adam Mosseri, via Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/instagram-shares-algorithm-2025/738034/",
+     "date": "2025-01-22"
+    }
+   ],
+   "work": [
+    "a_pin.jpg",
+    "b_forever.jpg",
+    "c_holdsup.jpg"
+   ],
+   "caption": "1 candle → 3 reels people send.\n\n1) A fix: why your candle tunnels. 2) A myth: 3 things that shorten its life. 3) Your own number: how long one batch takes.\nTeach first; the candle is the answer at the end.\nSends weigh slightly more with people who don't follow you yet. People send tips, not ads.\n\nSource: Adam Mosseri, Head of Instagram (via Social Media Today, Jan 2025)\n\nThis is exactly what we build into every account we run.\nSave this for your next post.\nFirst ad free · DM 'DAILY'\n\n#smallbusinessmarketing #instagramtips #reelstips #contentstrategy #smallbusiness",
+   "status": "unused"
+  },
+  {
+   "id": "s08",
+   "type": "hooks",
+   "audience": "Founders",
+   "hook": "Same reel, 2 hooks. Only 1 gets watched.",
+   "lines": [
+    {
+     "say": "Same reel, *two* hooks. Only one gets watched.",
+     "scene": {
+      "kind": "hook",
+      "label": "Founders",
+      "headline": "Same reel. *2* hooks. Only *1* gets watched."
+     }
+    },
+    {
+     "say": "Instagram's own tip for reaching new people: hook viewers *fast*.",
+     "scene": {
+      "kind": "quote",
+      "size": 72,
+      "quote": "Hook viewers fast: capture attention within the *first few seconds.*",
+      "who": "Instagram Creators",
+      "role": "Tips for reaching new audiences"
+     }
+    },
+    {
+     "say": "Here's the weak one.",
+     "scene": {
+      "kind": "compare",
+      "weak": "Hey guys, so today I wanted to talk a little about our coffee",
+      "strong": "",
+      "verdict_at": 99
+     }
+    },
+    {
+     "say": "Here's the strong one.",
+     "scene": {
+      "kind": "compare",
+      "weak": "Hey guys, so today I wanted to talk a little about our coffee",
+      "strong": "Café owners: *3* reasons your latte photos get skipped",
+      "verdict_at": 1.2
+     }
+    },
+    {
+     "say": "What changed? *Three* things.",
+     "scene": {
+      "kind": "list",
+      "title": "What changed",
+      "items": [
+       "It names *who* it's for",
+       "It has a *number*",
+       "It promises a *payoff*"
+      ]
+     }
+    },
+    {
+     "say": "It names *who* it's for."
+    },
+    {
+     "say": "It has a *number*."
+    },
+    {
+     "say": "And it promises a *payoff* you can only get by staying."
+    },
+    {
+     "say": "Write the hook last. It's the only part *everyone* sees.",
+     "scene": {
+      "kind": "statement",
+      "font": "anton",
+      "size": 140,
+      "text": "Write the hook *last.*"
+     }
+    },
+    {
+     "say": "That's what we build into every account we run.",
+     "scene": {
+      "kind": "work",
+      "title": "Our work"
+     }
+    },
+    {
+     "say": "Want it done for you? DM *DAILY*. Your first ad is free.",
+     "scene": {
+      "kind": "end"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "source": "Instagram Creators: recommendations eligibility tips",
+     "url": "https://creators.instagram.com/blog/instagram-recommendations-eligibility-tips-creators",
+     "date": "2023-04-25"
+    },
+    {
+     "source": "Instagram reel insights, via Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/instagram-adds-retention-insights-reels/758464/",
+     "date": "2025-08-24"
+    }
+   ],
+   "work": [
+    "a_pin.jpg",
+    "b_forever.jpg",
+    "c_holdsup.jpg"
+   ],
+   "caption": "Same reel, 2 hooks. Only 1 gets watched.\n\nWeak: 'Hey guys, so today I wanted to talk about…'\nStrong: 'Café owners: 3 reasons your latte photos get skipped.'\nName who it's for. Use a number. Promise a payoff. Instagram's own tip: hook viewers in the first few seconds.\n\nSource: Instagram Creators (recommendation tips); Instagram reel insights\n\nThis is exactly what we build into every account we run.\nSave this for your next post.\nFirst ad free · DM 'DAILY'\n\n#smallbusinessmarketing #instagramtips #reelstips #contentstrategy #smallbusiness",
+   "status": "unused"
+  },
+  {
+   "id": "s09",
+   "type": "reach",
+   "audience": "Small brands",
+   "hook": "Post 2 identical videos and Instagram recommends only 1.",
+   "lines": [
+    {
+     "say": "Post the same video as someone else, and Instagram recommends only *one* of them.",
+     "scene": {
+      "kind": "hook",
+      "label": "Small brands",
+      "headline": "*2* identical videos? Instagram recommends only *1*."
+     }
+    },
+    {
+     "say": "Its own words: when it finds identical content, it recommends only the *original*.",
+     "scene": {
+      "kind": "quote",
+      "size": 66,
+      "quote": "When we find two or more identical pieces of content on Instagram, we will only recommend *the original one.*",
+      "who": "Instagram Creators",
+      "role": "Originality update · Apr 2024"
+     }
+    },
+    {
+     "say": "And accounts that keep reposting other people's videos can be left out of recommendations *entirely*.",
+     "scene": {
+      "kind": "feed",
+      "speed": 1000
+     }
+    },
+    {
+     "say": "Visible *watermarks* from other apps hurt too.",
+     "scene": {
+      "kind": "statement",
+      "font": "anton",
+      "size": 140,
+      "text": "No *watermarks.*"
+     }
+    },
+    {
+     "say": "Here's the part that helps you.",
+     "scene": {
+      "kind": "statement",
+      "font": "serif",
+      "size": 110,
+      "text": "Here's the part that *helps you.*"
+     }
+    },
+    {
+     "say": "Instagram said big accounts and repost pages used to get most of the reach,"
+    },
+    {
+     "say": "and it changed ranking to give smaller, *original* creators an *equal* footing.",
+     "scene": {
+      "kind": "bars",
+      "title": "Reach goes to the original",
+      "bars": [
+       {
+        "label": "Reposted copy",
+        "value": 1,
+        "text": "replaced"
+       },
+       {
+        "label": "Your original",
+        "value": 3,
+        "text": "recommended",
+        "color": "red"
+       }
+      ],
+      "maxv": 4.2,
+      "note": "Illustration · per Instagram, Apr 2024"
+     }
+    },
+    {
+     "say": "So film your own product. Your way. Small is not a disadvantage anymore."
+    },
+    {
+     "say": "That's what we build into every account we run.",
+     "scene": {
+      "kind": "work",
+      "title": "Our work"
+     }
+    },
+    {
+     "say": "Want it done for you? DM *DAILY*. Your first ad is free.",
+     "scene": {
+      "kind": "end"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "source": "Instagram Creators: Helping creators find new audiences (originality)",
+     "url": "https://creators.instagram.com/recommendations-and-Originality",
+     "date": "2024-04-30"
+    },
+    {
+     "source": "TechCrunch, on Instagram's ranking update",
+     "url": "https://techcrunch.com/2024/04/30/instagram-is-updating-its-ranking-systems-to-surface-more-original-content/",
+     "date": "2024-04-30"
+    }
+   ],
+   "work": [
+    "a_pin.jpg",
+    "b_forever.jpg",
+    "c_holdsup.jpg"
+   ],
+   "caption": "Post 2 identical videos and Instagram recommends only 1: the original.\n\nAccounts that mostly repost others' content can be excluded from recommendations; visible watermarks hurt eligibility.\nInstagram changed ranking (Apr 2024) to give smaller, original creators an equal footing.\nMake your own. Small is not a disadvantage.\n\nSource: Instagram Creators (Apr 2024); TechCrunch\n\nThis is exactly what we build into every account we run.\nSave this for your next post.\nFirst ad free · DM 'DAILY'\n\n#smallbusinessmarketing #instagramtips #reelstips #contentstrategy #smallbusiness",
+   "status": "unused"
+  },
+  {
+   "id": "s10",
+   "type": "retention",
+   "audience": "Product businesses",
+   "hook": "Up to 47% of a video's value lands in the first 3 seconds.",
+   "lines": [
+    {
+     "say": "Up to *forty-seven* percent of a video's value can land in the first *three* seconds.",
+     "scene": {
+      "kind": "hook",
+      "label": "Product businesses",
+      "headline": "Up to *47%* of a video's value lands in the first *3* seconds."
+     }
+    },
+    {
+     "say": "That's from Nielsen data Instagram shared on its business blog, back in 2015.",
+     "scene": {
+      "kind": "quote",
+      "size": 70,
+      "quote": "Up to *47%* of the value of a video campaign was delivered in the *first three seconds.*",
+      "who": "Instagram Business blog",
+      "role": "Citing Nielsen · c. 2015"
+     }
+    },
+    {
+     "say": "And up to *seventy-four* percent in the first *ten*.",
+     "scene": {
+      "kind": "bars",
+      "title": "Share of value delivered",
+      "unit": "%",
+      "bars": [
+       {
+        "label": "First 3 seconds",
+        "value": 47,
+        "text": "up to 47%",
+        "color": "red"
+       },
+       {
+        "label": "First 10 seconds",
+        "value": 74,
+        "text": "up to 74%"
+       }
+      ],
+      "maxv": 100,
+      "note": "Nielsen via Instagram, c. 2015"
+     }
+    },
+    {
+     "say": "Old numbers. But Instagram still measures the first three seconds today, with *skip* *rate*.",
+     "scene": {
+      "kind": "timeline",
+      "max": 10,
+      "mark": 3,
+      "mark_label": "SKIP RATE",
+      "title": "Still measured today"
+     }
+    },
+    {
+     "say": "So what goes in those seconds?",
+     "scene": {
+      "kind": "statement",
+      "font": "anton",
+      "size": 160,
+      "text": "So what goes there?"
+     }
+    },
+    {
+     "say": "Your *best* *moment*. Not your setup.",
+     "scene": {
+      "kind": "compare",
+      "weak": "So I started this business back in 2019 and",
+      "strong": "This is what *0.5 seconds* of crema looks like",
+      "weak_label": "SETUP",
+      "strong_label": "BEST MOMENT",
+      "verdict_at": 1.4
+     }
+    },
+    {
+     "say": "Lead with the result, then show how you got there."
+    },
+    {
+     "say": "That's what we build into every account we run.",
+     "scene": {
+      "kind": "work",
+      "title": "Our work"
+     }
+    },
+    {
+     "say": "Want it done for you? DM *DAILY*. Your first ad is free.",
+     "scene": {
+      "kind": "end"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "source": "Instagram Business blog citing Nielsen (c. 2015)",
+     "url": "https://business.instagram.com/blog/coming-soon-view-counts-on-videos",
+     "date": "c. 2015"
+    },
+    {
+     "source": "Instagram reel insights, via Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/instagram-adds-retention-insights-reels/758464/",
+     "date": "2025-08-24"
+    }
+   ],
+   "work": [
+    "a_pin.jpg",
+    "b_forever.jpg",
+    "c_holdsup.jpg"
+   ],
+   "caption": "Up to 47% of a video's value can land in the first 3 seconds.\n\nNielsen data via Instagram (c. 2015): up to 47% of a video campaign's value in the first 3 s; up to 74% in the first 10 s.\nToday Instagram still tracks those first 3 seconds as 'skip rate'.\nLead with your best moment, not your setup.\n\nSource: Instagram Business blog citing Nielsen (c. 2015); Instagram reel insights (2025)\n\nThis is exactly what we build into every account we run.\nSave this for your next post.\nFirst ad free · DM 'DAILY'\n\n#smallbusinessmarketing #instagramtips #reelstips #contentstrategy #smallbusiness",
+   "status": "unused"
+  },
+  {
+   "id": "s11",
+   "type": "product",
+   "audience": "Bakeries",
+   "hook": "Your bakery doesn't need more product shots. It needs 1 question answered.",
+   "lines": [
+    {
+     "say": "Your bakery doesn't need more product shots. It needs *one* question answered.",
+     "scene": {
+      "kind": "hook",
+      "label": "Bakeries",
+      "headline": "Your bakery doesn't need more product shots. It needs *1* answer."
+     }
+    },
+    {
+     "say": "The question your customers already ask you at the counter.",
+     "scene": {
+      "kind": "statement",
+      "font": "serif",
+      "size": 110,
+      "text": "What do they ask you *at the counter?*"
+     }
+    },
+    {
+     "say": "'Why is your sourdough so sour?' 'How do I keep a croissant crisp?'",
+     "scene": {
+      "kind": "list",
+      "reveal": "time",
+      "every": 1.0,
+      "title": "Questions = reels",
+      "items": [
+       "Why is sourdough *sour*?",
+       "How do I keep it *crisp*?",
+       "Why does bread go *stale*?"
+      ]
+     }
+    },
+    {
+     "say": "Each answer is a reel."
+    },
+    {
+     "say": "Hook: the question, with a number. 'Croissants: *three* mistakes that make them soggy.'",
+     "scene": {
+      "kind": "compare",
+      "weak": "Fresh croissants every morning!",
+      "strong": "Croissants: *3* mistakes that make them *soggy*",
+      "weak_label": "PRODUCT SHOT",
+      "strong_label": "ANSWER",
+      "verdict_at": 1.4
+     }
+    },
+    {
+     "say": "Then the answer, step by step. Then your croissant, at the end, as the proof."
+    },
+    {
+     "say": "Instagram's own business advice says it plainly: connect by teaching people something *new*.",
+     "scene": {
+      "kind": "quote",
+      "size": 74,
+      "quote": "Connect with your audience by *teaching them something new.*",
+      "who": "Instagram for Business",
+      "role": "Get discovered with Reels"
+     }
+    },
+    {
+     "say": "Your counter is a list of reels waiting to be made.",
+     "scene": {
+      "kind": "statement",
+      "font": "anton",
+      "size": 140,
+      "text": "Your counter = your *content plan.*"
+     }
+    },
+    {
+     "say": "That's what we build into every account we run.",
+     "scene": {
+      "kind": "work",
+      "title": "Our work"
+     }
+    },
+    {
+     "say": "Want it done for you? DM *DAILY*. Your first ad is free.",
+     "scene": {
+      "kind": "end"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "source": "Instagram for Business: Get discovered with Reels",
+     "url": "https://business.instagram.com/instagram-reels",
+     "date": "checked 2026-10"
+    }
+   ],
+   "work": [
+    "a_pin.jpg",
+    "b_forever.jpg",
+    "c_holdsup.jpg"
+   ],
+   "caption": "Your bakery doesn't need more product shots. It needs 1 question answered.\n\nThe questions customers ask at the counter are your next reels.\nHook = the question + a number. Body = the answer. Ending = your product as proof.\nInstagram's business advice: connect by teaching people something new.\n\nSource: Instagram for Business, 'Get discovered with Reels'\n\nThis is exactly what we build into every account we run.\nSave this for your next post.\nFirst ad free · DM 'DAILY'\n\n#smallbusinessmarketing #instagramtips #reelstips #contentstrategy #smallbusiness",
+   "status": "unused"
+  },
+  {
+   "id": "s12",
+   "type": "shares",
+   "audience": "Small brands",
+   "hook": "Likes reach your followers. Sends reach everyone else.",
+   "lines": [
+    {
+     "say": "Likes help you reach your followers. *Sends* help you reach everyone else.",
+     "scene": {
+      "kind": "hook",
+      "label": "Small brands",
+      "headline": "Likes reach your *followers*. Sends reach *everyone else*."
+     }
+    },
+    {
+     "say": "Mosseri's words: likes are slightly more important for connected content,",
+     "scene": {
+      "kind": "quote",
+      "size": 64,
+      "quote": "Likes are slightly more important for connected content, and *sends* are slightly more important for *unconnected content.*",
+      "who": "Adam Mosseri",
+      "role": "Head of Instagram · Jan 2025"
+     }
+    },
+    {
+     "say": "and *sends* are slightly more important for people who don't know you yet."
+    },
+    {
+     "say": "So the question isn't 'will they like it?'",
+     "scene": {
+      "kind": "statement",
+      "font": "anton",
+      "size": 150,
+      "text": "Not: will they *like* it?"
+     }
+    },
+    {
+     "say": "It's 'who would they send it *to*?'",
+     "scene": {
+      "kind": "statement",
+      "font": "anton",
+      "size": 150,
+      "text": "But: who would they *send* it *to*?"
+     }
+    },
+    {
+     "say": "Three kinds of posts get sent.",
+     "scene": {
+      "kind": "list",
+      "title": "Posts that get sent",
+      "items": [
+       "A *fix* they need",
+       "A *truth* about their life",
+       "A *plan* to share"
+      ]
+     }
+    },
+    {
+     "say": "A fix someone needs."
+    },
+    {
+     "say": "A truth about someone's life."
+    },
+    {
+     "say": "Or a plan to do together. 'We should go here.'"
+    },
+    {
+     "say": "That's what we build into every account we run.",
+     "scene": {
+      "kind": "work",
+      "title": "Our work"
+     }
+    },
+    {
+     "say": "Want it done for you? DM *DAILY*. Your first ad is free.",
+     "scene": {
+      "kind": "end"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "source": "Adam Mosseri, via Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/instagram-shares-algorithm-2025/738034/",
+     "date": "2025-01-22"
+    },
+    {
+     "source": "Adam Mosseri, via Search Engine Journal",
+     "url": "https://searchenginejournal.com/instagram-algorithm-shift-why-sends-matter-more-than-ever/",
+     "date": "2024-07-03"
+    }
+   ],
+   "work": [
+    "a_pin.jpg",
+    "b_forever.jpg",
+    "c_holdsup.jpg"
+   ],
+   "caption": "Likes reach your followers. Sends reach everyone else.\n\nMosseri: likes weigh slightly more for connected content; sends weigh slightly more for unconnected content.\nAsk 'who would they send this to?' instead of 'will they like it?'\nPosts that get sent: a fix they need, a truth about their life, a plan to share.\n\nSource: Adam Mosseri (Social Media Today, Jan 2025; Search Engine Journal, 2024)\n\nThis is exactly what we build into every account we run.\nSave this for your next post.\nFirst ad free · DM 'DAILY'\n\n#smallbusinessmarketing #instagramtips #reelstips #contentstrategy #smallbusiness",
+   "status": "unused"
+  },
+  {
+   "id": "s13",
+   "type": "hooks",
+   "audience": "Product businesses",
+   "hook": "41% of video ads made no sense without sound.",
+   "lines": [
+    {
+     "say": "In a Facebook study, *forty-one* percent of video ads made no sense with the sound off.",
+     "scene": {
+      "kind": "hook",
+      "label": "Product businesses",
+      "headline": "*41%* of video ads made no sense *without sound*."
+     }
+    },
+    {
+     "say": "That was Facebook's own research, in 2016.",
+     "scene": {
+      "kind": "counter",
+      "to": 41,
+      "suffix": "%",
+      "label": "of video ads meaningless on mute · Facebook, 2016",
+      "over": 1.2
+     }
+    },
+    {
+     "say": "The same research found *captions* raised view time by about *twelve* percent.",
+     "scene": {
+      "kind": "bars",
+      "title": "Captions vs no captions",
+      "unit": "%",
+      "bars": [
+       {
+        "label": "No captions",
+        "value": 100,
+        "text": "view time"
+       },
+       {
+        "label": "With captions",
+        "value": 112,
+        "text": "+12%",
+        "color": "red"
+       }
+      ],
+      "maxv": 130,
+      "note": "Facebook internal tests, 2016"
+     }
+    },
+    {
+     "say": "So what does your reel say on mute?",
+     "scene": {
+      "kind": "feed",
+      "speed": 1100,
+      "stop_at": 1.2,
+      "stop_card": 4,
+      "labels": {
+       "4": "ON MUTE?"
+      }
+     }
+    },
+    {
+     "say": "Instagram's business guide says: use *voiceover* and *timed* *text* to reinforce your message.",
+     "scene": {
+      "kind": "quote",
+      "size": 74,
+      "quote": "Use *voiceover and timed text* to reinforce your message.",
+      "who": "Instagram for Business",
+      "role": "Get discovered with Reels"
+     }
+    },
+    {
+     "say": "Notice this reel. Every line I say is on screen.",
+     "scene": {
+      "kind": "statement",
+      "font": "anton",
+      "size": 150,
+      "text": "Every word. *On screen.*"
+     }
+    },
+    {
+     "say": "If it works on mute, it works everywhere."
+    },
+    {
+     "say": "That's what we build into every account we run.",
+     "scene": {
+      "kind": "work",
+      "title": "Our work"
+     }
+    },
+    {
+     "say": "Want it done for you? DM *DAILY*. Your first ad is free.",
+     "scene": {
+      "kind": "end"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "source": "Meta Newsroom (Facebook research, 2016)",
+     "url": "https://about.fb.com/es/news/2016/02/capta-la-atencion-con-nuevas-funcionalidades-para-anuncios-de-video/",
+     "date": "2016-02-10"
+    },
+    {
+     "source": "Instagram for Business: Get discovered with Reels",
+     "url": "https://business.instagram.com/instagram-reels",
+     "date": "checked 2026-10"
+    }
+   ],
+   "work": [
+    "a_pin.jpg",
+    "b_forever.jpg",
+    "c_holdsup.jpg"
+   ],
+   "caption": "41% of video ads made no sense without sound.\n\nFacebook's 2016 research: 41% of video ads were meaningless on mute; captions raised view time ~12%.\nInstagram's business guide: use voiceover AND timed text.\nIf it works on mute, it works everywhere.\n\nSource: Meta Newsroom (Facebook research, 2016); Instagram for Business\n\nThis is exactly what we build into every account we run.\nSave this for your next post.\nFirst ad free · DM 'DAILY'\n\n#smallbusinessmarketing #instagramtips #reelstips #contentstrategy #smallbusiness",
+   "status": "unused"
+  },
+  {
+   "id": "s14",
+   "type": "teach",
+   "audience": "Small brands",
+   "hook": "Instagram's own advice for businesses isn't 'post your product'.",
+   "lines": [
+    {
+     "say": "Instagram's own advice for businesses isn't 'post your product'.",
+     "scene": {
+      "kind": "hook",
+      "label": "Small brands",
+      "headline": "Instagram's own advice for businesses *isn't* 'post your product'."
+     }
+    },
+    {
+     "say": "Its business site says *entertaining* *storytelling* drives discovery.",
+     "scene": {
+      "kind": "quote",
+      "size": 80,
+      "quote": "*Entertaining storytelling* drives discovery for your business.",
+      "who": "Instagram for Business",
+      "role": "Get discovered with Reels"
+     }
+    },
+    {
+     "say": "And to connect, *teach* people something new.",
+     "scene": {
+      "kind": "statement",
+      "font": "serif",
+      "size": 120,
+      "text": "*Teach* them something new."
+     }
+    },
+    {
+     "say": "Meanwhile, in Sprout Social's 2025 survey, people ranked *polished*, product-centric content *last*.",
+     "scene": {
+      "kind": "list",
+      "reveal": "time",
+      "every": 0.6,
+      "title": "What people want (2025)",
+      "items": [
+       "Relatable",
+       "Authentic",
+       "Entertaining",
+       "*Polished product posts: last*"
+      ]
+     }
+    },
+    {
+     "say": "So why do most small brands still post product shots?",
+     "scene": {
+      "kind": "feed",
+      "speed": 1000
+     }
+    },
+    {
+     "say": "Because they're easy. And easy is what everyone else is posting too."
+    },
+    {
+     "say": "Try this: one lesson your product *proves*. Then show the product.",
+     "scene": {
+      "kind": "compare",
+      "weak": "New collection now available. Link in bio",
+      "strong": "Why your white tee turns *yellow* (and how to stop it)",
+      "weak_label": "PRODUCT POST",
+      "strong_label": "LESSON",
+      "verdict_at": 1.4
+     }
+    },
+    {
+     "say": "That's what we build into every account we run.",
+     "scene": {
+      "kind": "work",
+      "title": "Our work"
+     }
+    },
+    {
+     "say": "Want it done for you? DM *DAILY*. Your first ad is free.",
+     "scene": {
+      "kind": "end"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "source": "Instagram for Business: Get discovered with Reels",
+     "url": "https://business.instagram.com/instagram-reels",
+     "date": "checked 2026-10"
+    },
+    {
+     "source": "Sprout Social Index 2025",
+     "url": "https://sproutsocial.com/insights/index/",
+     "date": "2025"
+    }
+   ],
+   "work": [
+    "a_pin.jpg",
+    "b_forever.jpg",
+    "c_holdsup.jpg"
+   ],
+   "caption": "Instagram's own advice for businesses isn't 'post your product'.\n\nInstagram for Business: entertaining storytelling drives discovery; teach people something new.\nSprout Social Index 2025: people ranked polished, product-centric content least important.\nPost one lesson your product proves. Then show the product.\n\nSource: Instagram for Business; Sprout Social Index 2025\n\nThis is exactly what we build into every account we run.\nSave this for your next post.\nFirst ad free · DM 'DAILY'\n\n#smallbusinessmarketing #instagramtips #reelstips #contentstrategy #smallbusiness",
+   "status": "unused"
+  },
+  {
+   "id": "s15",
+   "type": "reach",
+   "audience": "Small brands",
+   "hook": "Small account? Instagram says it tests you on people who don't follow you.",
+   "lines": [
+    {
+     "say": "Small account? Instagram says it shows your public posts to people who *don't* follow you.",
+     "scene": {
+      "kind": "hook",
+      "label": "Small brands",
+      "headline": "Small account? Instagram tests your posts on *strangers*."
+     }
+    },
+    {
+     "say": "In 2026 Mosseri described it as one of *four* ranking principles.",
+     "scene": {
+      "kind": "list",
+      "reveal": "time",
+      "every": 0.6,
+      "title": "Mosseri's 4 principles (2026)",
+      "items": [
+       "Originality",
+       "Recency",
+       "*Breaking new creators*",
+       "Bigger models"
+      ]
+     }
+    },
+    {
+     "say": "Instagram shows small creators' posts to non-followers to see how people *respond*."
+    },
+    {
+     "say": "Your first audience isn't your followers. It's *strangers*.",
+     "scene": {
+      "kind": "feed",
+      "speed": 900
+     }
+    },
+    {
+     "say": "Which means your post has to make sense to someone who's *never* heard of you.",
+     "scene": {
+      "kind": "compare",
+      "weak": "Restock day!! You know what that means",
+      "strong": "The *1* sweater rule nobody tells you",
+      "weak_label": "INSIDE JOKE",
+      "strong_label": "STRANGER-READY",
+      "verdict_at": 1.4
+     }
+    },
+    {
+     "say": "No inside jokes. No 'you know what day it is'."
+    },
+    {
+     "say": "Write every reel for the person seeing you for the *first* *time*.",
+     "scene": {
+      "kind": "statement",
+      "font": "anton",
+      "size": 140,
+      "text": "Write for the *first* time."
+     }
+    },
+    {
+     "say": "That's what we build into every account we run.",
+     "scene": {
+      "kind": "work",
+      "title": "Our work"
+     }
+    },
+    {
+     "say": "Want it done for you? DM *DAILY*. Your first ad is free.",
+     "scene": {
+      "kind": "end"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "source": "Adam Mosseri, via Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/instagram-chief-shares-algorithm-insights-and-posting-tips/",
+     "date": "2026-09-24"
+    }
+   ],
+   "work": [
+    "a_pin.jpg",
+    "b_forever.jpg",
+    "c_holdsup.jpg"
+   ],
+   "caption": "Small account? Instagram shows your public posts to people who don't follow you, to see how they respond.\n\nMosseri (2026): 'breaking new creators' is one of four ranking principles, with originality, recency and bigger models.\nYour first audience is strangers. Make every reel make sense to someone who's never heard of you.\nNo inside jokes.\n\nSource: Adam Mosseri, via Social Media Today (Sep 2026)\n\nThis is exactly what we build into every account we run.\nSave this for your next post.\nFirst ad free · DM 'DAILY'\n\n#smallbusinessmarketing #instagramtips #reelstips #contentstrategy #smallbusiness",
+   "status": "unused"
+  },
+  {
+   "id": "s16",
+   "type": "testing",
+   "audience": "Small brands",
+   "hook": "80% of creators who tried this saw more reach from non-followers.",
+   "lines": [
+    {
+     "say": "Eighty percent of creators who tried this saw more reels reach from non-followers.",
+     "scene": {
+      "kind": "hook",
+      "label": "Small brands",
+      "headline": "*80%* of creators who tried this got more reach from *strangers*."
+     }
+    },
+    {
+     "say": "It's called *trial* *reels*. Instagram launched it in December 2024.",
+     "scene": {
+      "kind": "statement",
+      "font": "anton",
+      "size": 170,
+      "text": "Trial *reels*"
+     }
+    },
+    {
+     "say": "A trial reel goes to people who *don't* follow you first. Your followers don't see it.",
+     "scene": {
+      "kind": "feed",
+      "speed": 900
+     }
+    },
+    {
+     "say": "After about *twenty-four* hours you see how it did.",
+     "scene": {
+      "kind": "timeline",
+      "max": 72,
+      "mark": 24,
+      "mark_label": "RESULTS",
+      "label_every": 12,
+      "title": "Trial reel timeline",
+      "play_speed": 20
+     }
+    },
+    {
+     "say": "If it does well within *seventy-two* hours, it can be shared with your followers automatically."
+    },
+    {
+     "say": "Instagram says *forty* percent of creators who tried it started posting reels more often.",
+     "scene": {
+      "kind": "bars",
+      "title": "Creators who tried trial reels",
+      "unit": "%",
+      "bars": [
+       {
+        "label": "Posted reels more often",
+        "value": 40,
+        "text": "40%"
+       },
+       {
+        "label": "More reach from non-followers",
+        "value": 80,
+        "text": "80%",
+        "color": "red"
+       }
+      ],
+      "maxv": 100,
+      "note": "Instagram, Jun 2025"
+     }
+    },
+    {
+     "say": "The catch: you need a public account with at least *one* *thousand* followers.",
+     "scene": {
+      "kind": "counter",
+      "to": 1000,
+      "label": "followers to unlock trial reels",
+      "over": 1.0
+     }
+    },
+    {
+     "say": "Until then, every normal post is your trial. Treat it like one."
+    },
+    {
+     "say": "That's what we build into every account we run.",
+     "scene": {
+      "kind": "work",
+      "title": "Our work"
+     }
+    },
+    {
+     "say": "Want it done for you? DM *DAILY*. Your first ad is free.",
+     "scene": {
+      "kind": "end"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "source": "Instagram Creators: Trial reels",
+     "url": "https://creators.instagram.com/blog/instagram-trial-reels",
+     "date": "2024-12-10"
+    },
+    {
+     "source": "Instagram, via Social Media Today",
+     "url": "https://socialmediatoday.com/news/instagram-trial-reels-increase-reach-tests/750121/",
+     "date": "2025-06-08"
+    },
+    {
+     "source": "Adam Mosseri, via Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/instagram-expands-access-trial-reels/752895/",
+     "date": "2025-07-13"
+    }
+   ],
+   "work": [
+    "a_pin.jpg",
+    "b_forever.jpg",
+    "c_holdsup.jpg"
+   ],
+   "caption": "80% of creators who tried trial reels saw more reach from non-followers.\n\nTrial reels go to non-followers first. Results after ~24 h; can auto-share to followers if it does well within 72 h.\nInstagram: 40% of creators who tried them started posting reels more often.\nNeeds a public account with 1,000+ followers. Until then, every post is your trial.\n\nSource: Instagram Creators (Dec 2024); Instagram via Social Media Today (Jun & Jul 2025)\n\nThis is exactly what we build into every account we run.\nSave this for your next post.\nFirst ad free · DM 'DAILY'\n\n#smallbusinessmarketing #instagramtips #reelstips #contentstrategy #smallbusiness",
+   "status": "unused"
+  },
+  {
+   "id": "s17",
+   "type": "product",
+   "audience": "App makers",
+   "hook": "Your app demo gets skipped. Here's the 1 change.",
+   "lines": [
+    {
+     "say": "Your app demo gets skipped. Here's the *one* change that fixes it.",
+     "scene": {
+      "kind": "hook",
+      "label": "App makers",
+      "headline": "Your app demo gets skipped. Here's the *1* change."
+     }
+    },
+    {
+     "say": "Most app reels start with the app. Logo, home screen, features.",
+     "scene": {
+      "kind": "compare",
+      "weak": "Introducing our new app! Here's the home screen",
+      "strong": "",
+      "weak_label": "TYPICAL DEMO",
+      "verdict_at": 99
+     }
+    },
+    {
+     "say": "But viewers don't care about your app yet. They care about their *problem*."
+    },
+    {
+     "say": "So start with the problem, as a hook with a number.",
+     "scene": {
+      "kind": "compare",
+      "weak": "Introducing our new app! Here's the home screen",
+      "strong": "You've opened *4* apps to plan *1* dinner",
+      "weak_label": "TYPICAL DEMO",
+      "strong_label": "PROBLEM FIRST",
+      "verdict_at": 1.4
+     }
+    },
+    {
+     "say": "Then teach the fix in *three* steps."
+    },
+    {
+     "say": "Your app shows up at step three, doing the boring part for them."
+    },
+    {
+     "say": "Instagram measures the first *three* seconds as skip rate. The problem is what makes people stay.",
+     "scene": {
+      "kind": "timeline",
+      "max": 10,
+      "mark": 3,
+      "mark_label": "SKIP ZONE",
+      "title": "Problem in the skip zone"
+     }
+    },
+    {
+     "say": "Problem first. App last.",
+     "scene": {
+      "kind": "statement",
+      "font": "anton",
+      "size": 170,
+      "text": "Problem *first.* App *last.*"
+     }
+    },
+    {
+     "say": "That's what we build into every account we run.",
+     "scene": {
+      "kind": "work",
+      "title": "Our work"
+     }
+    },
+    {
+     "say": "Want it done for you? DM *DAILY*. Your first ad is free.",
+     "scene": {
+      "kind": "end"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "source": "Instagram reel insights, via Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/instagram-adds-retention-insights-reels/758464/",
+     "date": "2025-08-24"
+    },
+    {
+     "source": "Instagram Creators: recommendations eligibility tips",
+     "url": "https://creators.instagram.com/blog/instagram-recommendations-eligibility-tips-creators",
+     "date": "2023-04-25"
+    }
+   ],
+   "work": [
+    "a_pin.jpg",
+    "b_forever.jpg",
+    "c_holdsup.jpg"
+   ],
+   "caption": "Your app demo gets skipped. Here's the 1 change: start with the problem.\n\nHook = their problem + a number ('You've opened 4 apps to plan 1 dinner').\nTeach the fix in 3 steps; your app appears at step 3.\nInstagram's skip rate measures the first 3 seconds; the problem is what makes people stay.\n\nSource: Instagram reel insights (Aug 2025); Instagram Creators\n\nThis is exactly what we build into every account we run.\nSave this for your next post.\nFirst ad free · DM 'DAILY'\n\n#smallbusinessmarketing #instagramtips #reelstips #contentstrategy #smallbusiness",
+   "status": "unused"
+  },
+  {
+   "id": "s18",
+   "type": "retention",
+   "audience": "Founders",
+   "hook": "The flatter your retention line, the more engaged your audience. 1 sentence flattens it.",
+   "lines": [
+    {
+     "say": "*One* sentence in the middle of your reel keeps people watching.",
+     "scene": {
+      "kind": "hook",
+      "label": "Founders",
+      "headline": "*1* sentence in the middle keeps people watching."
+     }
+    },
+    {
+     "say": "Instagram's retention chart always slopes down. The *flatter*, the better.",
+     "scene": {
+      "kind": "curve",
+      "title": "The middle is where people drift",
+      "curves": [
+       {
+        "pts": [
+         [
+          0,
+          100
+         ],
+         [
+          3,
+          70
+         ],
+         [
+          12,
+          58
+         ],
+         [
+          16,
+          38
+         ],
+         [
+          30,
+          26
+         ]
+        ],
+        "color": "ink",
+        "label": "no hook mid-way"
+       }
+      ],
+      "marks": [
+       {
+        "x": 14,
+        "label": "the drift",
+        "at": 1.6
+       }
+      ],
+      "note": "Illustration"
+     }
+    },
+    {
+     "say": "Most reels lose people in the *middle*. The hook worked. Then nothing new happens."
+    },
+    {
+     "say": "The fix is a *curiosity* *line*. A question you promise to answer.",
+     "scene": {
+      "kind": "statement",
+      "font": "serif",
+      "size": 110,
+      "text": "“So what actually makes someone *stop*?”"
+     }
+    },
+    {
+     "say": "Like: 'So what actually makes someone stop?'"
+    },
+    {
+     "say": "It resets attention, because now they want the answer.",
+     "scene": {
+      "kind": "curve",
+      "title": "With a curiosity line",
+      "curves": [
+       {
+        "pts": [
+         [
+          0,
+          100
+         ],
+         [
+          3,
+          70
+         ],
+         [
+          12,
+          58
+         ],
+         [
+          16,
+          38
+         ],
+         [
+          30,
+          26
+         ]
+        ],
+        "color": "ink",
+        "label": "without"
+       },
+       {
+        "pts": [
+         [
+          0,
+          100
+         ],
+         [
+          3,
+          70
+         ],
+         [
+          12,
+          58
+         ],
+         [
+          16,
+          54
+         ],
+         [
+          30,
+          46
+         ]
+        ],
+        "color": "red",
+        "label": "with"
+       }
+      ],
+      "marks": [
+       {
+        "x": 14,
+        "label": "curiosity line",
+        "at": 1.0
+       }
+      ],
+      "note": "Illustration"
+     }
+    },
+    {
+     "say": "Then answer it. Don't fake it."
+    },
+    {
+     "say": "This reel had one. You just watched it work.",
+     "scene": {
+      "kind": "statement",
+      "font": "anton",
+      "size": 140,
+      "text": "You just watched it *work.*"
+     }
+    },
+    {
+     "say": "That's what we build into every account we run.",
+     "scene": {
+      "kind": "work",
+      "title": "Our work"
+     }
+    },
+    {
+     "say": "Want it done for you? DM *DAILY*. Your first ad is free.",
+     "scene": {
+      "kind": "end"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "source": "Instagram reel insights, via Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/instagram-adds-retention-insights-reels/758464/",
+     "date": "2025-08-24"
+    }
+   ],
+   "work": [
+    "a_pin.jpg",
+    "b_forever.jpg",
+    "c_holdsup.jpg"
+   ],
+   "caption": "1 sentence in the middle of your reel keeps people watching.\n\nInstagram's retention chart always slopes down; the flatter, the more engaged your audience.\nReels lose people mid-way when nothing new happens. Add a curiosity line: a question you promise to answer.\nThen actually answer it.\n\nSource: Instagram reel insights, via Social Media Today (Aug 2025)\n\nThis is exactly what we build into every account we run.\nSave this for your next post.\nFirst ad free · DM 'DAILY'\n\n#smallbusinessmarketing #instagramtips #reelstips #contentstrategy #smallbusiness",
+   "status": "unused"
+  },
+  {
+   "id": "s19",
+   "type": "hooks",
+   "audience": "Product businesses",
+   "hook": "People can remember your post after 0.25 seconds.",
+   "lines": [
+    {
+     "say": "People can remember a post they saw for a quarter of a second.",
+     "scene": {
+      "kind": "hook",
+      "label": "Product businesses",
+      "headline": "People can remember your post after *0.25* seconds."
+     }
+    },
+    {
+     "say": "That's from Facebook's 2016 research on mobile feeds.",
+     "scene": {
+      "kind": "counter",
+      "to": 0.25,
+      "decimals": 2,
+      "suffix": "s",
+      "label": "enough to recall feed content · Facebook, 2016",
+      "over": 1.0
+     }
+    },
+    {
+     "say": "Even when they scroll right past, your *first* *frame* gets a fraction of a second in their head.",
+     "scene": {
+      "kind": "feed",
+      "speed": 1500
+     }
+    },
+    {
+     "say": "So what's in yours?",
+     "scene": {
+      "kind": "statement",
+      "font": "anton",
+      "size": 170,
+      "text": "What's in yours?"
+     }
+    },
+    {
+     "say": "If it's a blurry pan or a black screen, that's what they remember.",
+     "scene": {
+      "kind": "compare",
+      "weak": "",
+      "strong": "Florists: *1* trick for longer-lasting tulips",
+      "weak_label": "BLURRY PAN",
+      "strong_label": "READABLE FRAME",
+      "verdict_at": 1.4
+     }
+    },
+    {
+     "say": "Make the first frame readable on its own. Who it's for, a *number*, a *claim*."
+    },
+    {
+     "say": "Even the people who scroll will leave with your *idea*.",
+     "scene": {
+      "kind": "statement",
+      "font": "serif",
+      "size": 120,
+      "text": "Even scrollers leave with your *idea.*"
+     }
+    },
+    {
+     "say": "That's what we build into every account we run.",
+     "scene": {
+      "kind": "work",
+      "title": "Our work"
+     }
+    },
+    {
+     "say": "Want it done for you? DM *DAILY*. Your first ad is free.",
+     "scene": {
+      "kind": "end"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "source": "Meta Newsroom (Facebook research, 2016)",
+     "url": "https://about.fb.com/es/news/2016/02/capta-la-atencion-con-nuevas-funcionalidades-para-anuncios-de-video/",
+     "date": "2016-02-10"
+    }
+   ],
+   "work": [
+    "a_pin.jpg",
+    "b_forever.jpg",
+    "c_holdsup.jpg"
+   ],
+   "caption": "People can remember a post they saw for just 0.25 seconds.\n\nFacebook's 2016 mobile feed research: content could be recalled after a quarter of a second.\nYour first frame works even on people who scroll past.\nMake it readable on its own: who it's for, a number, a claim.\n\nSource: Meta Newsroom (Facebook research, 2016)\n\nThis is exactly what we build into every account we run.\nSave this for your next post.\nFirst ad free · DM 'DAILY'\n\n#smallbusinessmarketing #instagramtips #reelstips #contentstrategy #smallbusiness",
+   "status": "unused"
+  },
+  {
+   "id": "s20",
+   "type": "shares",
+   "audience": "Small brands",
+   "hook": "More posts get shared in DMs than in Stories. Most brands design for the wrong one.",
+   "lines": [
+    {
+     "say": "More posts get shared into DMs than into Stories.",
+     "scene": {
+      "kind": "hook",
+      "label": "Small brands",
+      "headline": "More posts get shared in *DMs* than in *Stories*."
+     }
+    },
+    {
+     "say": "That's Adam Mosseri. He calls it a *paradigm* *shift*.",
+     "scene": {
+      "kind": "quote",
+      "size": 70,
+      "quote": "There are *way more* photos and videos shared into DMs than into stories.",
+      "who": "Adam Mosseri",
+      "role": "Head of Instagram · interview"
+     }
+    },
+    {
+     "say": "And more into Stories than into the feed.",
+     "scene": {
+      "kind": "list",
+      "reveal": "time",
+      "every": 0.6,
+      "title": "Where sharing happens",
+      "items": [
+       "*DMs*",
+       "Stories",
+       "Feed"
+      ]
+     }
+    },
+    {
+     "say": "So picture your post landing in a group chat.",
+     "scene": {
+      "kind": "feed",
+      "speed": 900
+     }
+    },
+    {
+     "say": "Does it need *you* to explain it? Then it won't get sent."
+    },
+    {
+     "say": "Make it *self-explaining*: the hook, the point, and the proof, all inside the post.",
+     "scene": {
+      "kind": "list",
+      "title": "Group-chat ready",
+      "items": [
+       "Hook says *who* it's for",
+       "Point fits *one* line",
+       "Proof is *in* the post"
+      ]
+     }
+    },
+    {
+     "say": "A friend should get it without opening your profile."
+    },
+    {
+     "say": "That's what we build into every account we run.",
+     "scene": {
+      "kind": "work",
+      "title": "Our work"
+     }
+    },
+    {
+     "say": "Want it done for you? DM *DAILY*. Your first ad is free.",
+     "scene": {
+      "kind": "end"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "source": "Adam Mosseri interview, Business Insider",
+     "url": "https://www.yahoo.com/news/instagram-head-adam-mosseri-paradigm-100002931.html",
+     "date": "2026"
+    }
+   ],
+   "work": [
+    "a_pin.jpg",
+    "b_forever.jpg",
+    "c_holdsup.jpg"
+   ],
+   "caption": "More posts get shared into DMs than into Stories.\n\nMosseri: way more photos and videos are shared into DMs than Stories, and more into Stories than the feed.\nPicture your post landing in a group chat. Does it explain itself?\nHook says who it's for. Point fits one line. Proof is inside the post.\n\nSource: Adam Mosseri, Business Insider interview\n\nThis is exactly what we build into every account we run.\nSave this for your next post.\nFirst ad free · DM 'DAILY'\n\n#smallbusinessmarketing #instagramtips #reelstips #contentstrategy #smallbusiness",
+   "status": "unused"
+  },
+  {
+   "id": "s21",
+   "type": "product",
+   "audience": "Clothing brands",
+   "hook": "Stop posting the outfit. Post the 1 mistake it fixes.",
+   "lines": [
+    {
+     "say": "Stop posting the outfit. Post the *one* mistake it fixes.",
+     "scene": {
+      "kind": "hook",
+      "label": "Clothing brands",
+      "headline": "Stop posting the outfit. Post the *1* mistake it fixes."
+     }
+    },
+    {
+     "say": "A flat lay says 'new arrival'. Nobody sends that to a friend.",
+     "scene": {
+      "kind": "compare",
+      "weak": "New arrivals. Shop the drop",
+      "strong": "",
+      "weak_label": "FLAT LAY",
+      "verdict_at": 99
+     }
+    },
+    {
+     "say": "A mistake says 'this is you'. People send that.",
+     "scene": {
+      "kind": "compare",
+      "weak": "New arrivals. Shop the drop",
+      "strong": "*3* fit mistakes that make jeans look *cheap*",
+      "weak_label": "FLAT LAY",
+      "strong_label": "THE MISTAKE",
+      "verdict_at": 1.2
+     }
+    },
+    {
+     "say": "Here's the format.",
+     "scene": {
+      "kind": "list",
+      "title": "The format",
+      "items": [
+       "Hook: the *mistake* + a number",
+       "Show *why* it happens",
+       "The *fix*: your piece"
+      ]
+     }
+    },
+    {
+     "say": "Hook: the mistake, with a number."
+    },
+    {
+     "say": "Then *why* it happens, in plain words."
+    },
+    {
+     "say": "Then the fix. That's where your piece appears."
+    },
+    {
+     "say": "And sends matter: Mosseri says sends count slightly more with people who *don't* follow you yet.",
+     "scene": {
+      "kind": "icons",
+      "kinds": [
+       "heart",
+       "send"
+      ],
+      "names": {
+       "heart": "likes / your followers",
+       "send": "sends / new people"
+      },
+      "highlight": "send",
+      "hl_at": 1.6,
+      "title": "Where each counts more",
+      "title_size": 80
+     }
+    },
+    {
+     "say": "That's what we build into every account we run.",
+     "scene": {
+      "kind": "work",
+      "title": "Our work"
+     }
+    },
+    {
+     "say": "Want it done for you? DM *DAILY*. Your first ad is free.",
+     "scene": {
+      "kind": "end"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "source": "Adam Mosseri, via Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/instagram-shares-algorithm-2025/738034/",
+     "date": "2025-01-22"
+    }
+   ],
+   "work": [
+    "a_pin.jpg",
+    "b_forever.jpg",
+    "c_holdsup.jpg"
+   ],
+   "caption": "Stop posting the outfit. Post the 1 mistake it fixes.\n\nHook: the mistake + a number ('3 fit mistakes that make jeans look cheap').\nThen why it happens. Then the fix: your piece.\nSends weigh slightly more with people who don't follow you yet, and people send mistakes, not flat lays.\n\nSource: Adam Mosseri, Head of Instagram (via Social Media Today, Jan 2025)\n\nThis is exactly what we build into every account we run.\nSave this for your next post.\nFirst ad free · DM 'DAILY'\n\n#smallbusinessmarketing #instagramtips #reelstips #contentstrategy #smallbusiness",
+   "status": "unused"
+  },
+  {
+   "id": "s22",
+   "type": "reach",
+   "audience": "Small brands",
+   "hook": "4 things that quietly stop Instagram from recommending your reel.",
+   "lines": [
+    {
+     "say": "*Four* things quietly stop Instagram from recommending your reel to new people.",
+     "scene": {
+      "kind": "hook",
+      "label": "Small brands",
+      "headline": "*4* things that quietly stop Instagram from *recommending* you."
+     }
+    },
+    {
+     "say": "All from Instagram's own creator guidelines.",
+     "scene": {
+      "kind": "list",
+      "title": "Not recommended if…",
+      "items": [
+       "Your account is *private*",
+       "It's *longer* than 3 minutes",
+       "It has *watermarks*",
+       "It's a *copy*"
+      ]
+     }
+    },
+    {
+     "say": "One. A *private* account can't be recommended to non-followers."
+    },
+    {
+     "say": "Two. Reels have to be *three* minutes or less."
+    },
+    {
+     "say": "Three. Visible *watermarks* from other apps."
+    },
+    {
+     "say": "Four. Copies. Instagram recommends the *original*, not the repost."
+    },
+    {
+     "say": "You can check this yourself. Professional accounts have an *Account* *Status* page that shows if anything isn't eligible.",
+     "scene": {
+      "kind": "statement",
+      "font": "anton",
+      "size": 130,
+      "text": "Settings → *Account Status*"
+     }
+    },
+    {
+     "say": "Two minutes. Check it today."
+    },
+    {
+     "say": "That's what we build into every account we run.",
+     "scene": {
+      "kind": "work",
+      "title": "Our work"
+     }
+    },
+    {
+     "say": "Want it done for you? DM *DAILY*. Your first ad is free.",
+     "scene": {
+      "kind": "end"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "source": "Instagram Creators: recommendations eligibility tips",
+     "url": "https://creators.instagram.com/blog/instagram-recommendations-eligibility-tips-creators",
+     "date": "2023-04-25"
+    },
+    {
+     "source": "Instagram Creators: Helping creators find new audiences (originality)",
+     "url": "https://creators.instagram.com/recommendations-and-Originality",
+     "date": "2024-04-30"
+    }
+   ],
+   "work": [
+    "a_pin.jpg",
+    "b_forever.jpg",
+    "c_holdsup.jpg"
+   ],
+   "caption": "4 things that quietly stop Instagram from recommending your reel.\n\n1) Private account 2) Reel longer than 3 minutes 3) Visible watermarks 4) Reposted copies (only the original gets recommended).\nProfessional accounts can check Account Status to see if any content isn't eligible.\nCheck it today.\n\nSource: Instagram Creators (recommendation eligibility; originality, Apr 2024)\n\nThis is exactly what we build into every account we run.\nSave this for your next post.\nFirst ad free · DM 'DAILY'\n\n#smallbusinessmarketing #instagramtips #reelstips #contentstrategy #smallbusiness",
+   "status": "unused"
+  },
+  {
+   "id": "s23",
+   "type": "teach",
+   "audience": "Product businesses",
+   "hook": "The #2 thing that makes a brand stand out isn't price. It's originality.",
+   "lines": [
+    {
+     "say": "The number *two* thing people say makes a brand stand out on social is *originality*.",
+     "scene": {
+      "kind": "hook",
+      "label": "Product businesses",
+      "headline": "The *#2* thing that makes a brand stand out? *Originality*."
+     }
+    },
+    {
+     "say": "In Sprout Social's 2025 Index, only *product* *quality* ranked higher.",
+     "scene": {
+      "kind": "list",
+      "reveal": "time",
+      "every": 0.7,
+      "title": "What makes a brand stand out",
+      "items": [
+       "Product quality",
+       "*Originality of content*"
+      ]
+     }
+    },
+    {
+     "say": "And original doesn't mean expensive. It means *yours*.",
+     "scene": {
+      "kind": "statement",
+      "font": "serif",
+      "size": 120,
+      "text": "Original means *yours.*"
+     }
+    },
+    {
+     "say": "Your process. Your numbers. The questions your customers ask you."
+    },
+    {
+     "say": "A lesson only *you* can teach is original by default.",
+     "scene": {
+      "kind": "compare",
+      "weak": "Trending audio + product shot",
+      "strong": "What *we* learned from *300* orders this month",
+      "weak_label": "COPYABLE",
+      "strong_label": "ONLY YOU",
+      "verdict_at": 1.4
+     }
+    },
+    {
+     "say": "And Instagram rewards that too. When content is identical, it recommends only the *original*."
+    },
+    {
+     "say": "That's what we build into every account we run.",
+     "scene": {
+      "kind": "work",
+      "title": "Our work"
+     }
+    },
+    {
+     "say": "Want it done for you? DM *DAILY*. Your first ad is free.",
+     "scene": {
+      "kind": "end"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "source": "Sprout Social Index 2025",
+     "url": "https://sproutsocial.com/insights/index/",
+     "date": "2025"
+    },
+    {
+     "source": "Instagram Creators: Helping creators find new audiences (originality)",
+     "url": "https://creators.instagram.com/recommendations-and-Originality",
+     "date": "2024-04-30"
+    }
+   ],
+   "work": [
+    "a_pin.jpg",
+    "b_forever.jpg",
+    "c_holdsup.jpg"
+   ],
+   "caption": "The #2 thing that makes a brand stand out on social: originality.\n\nSprout Social Index 2025: only product quality ranked higher.\nOriginal doesn't mean expensive. It means yours: your process, your numbers, your customers' questions.\nInstagram only recommends the original when content is identical.\n\nSource: Sprout Social Index 2025; Instagram Creators (Apr 2024)\n\nThis is exactly what we build into every account we run.\nSave this for your next post.\nFirst ad free · DM 'DAILY'\n\n#smallbusinessmarketing #instagramtips #reelstips #contentstrategy #smallbusiness",
+   "status": "unused"
+  },
+  {
+   "id": "s24",
+   "type": "hooks",
+   "audience": "Small brands",
+   "hook": "1.7 seconds: the average time people gave a mobile post (2016).",
+   "lines": [
+    {
+     "say": "One point seven seconds. That's how long people spent, on average, with a post on mobile.",
+     "scene": {
+      "kind": "hook",
+      "label": "Small brands",
+      "headline": "*1.7* seconds. That's how long a mobile post got."
+     }
+    },
+    {
+     "say": "Facebook measured it in 2016. On desktop it was *two* *point* *five*.",
+     "scene": {
+      "kind": "bars",
+      "title": "Avg time per post (2016)",
+      "unit": "s",
+      "bars": [
+       {
+        "label": "Mobile",
+        "value": 1.7,
+        "text": "1.7s",
+        "color": "red"
+       },
+       {
+        "label": "Desktop",
+        "value": 2.5,
+        "text": "2.5s"
+       }
+      ],
+      "maxv": 3.2,
+      "note": "Facebook research, 2016"
+     }
+    },
+    {
+     "say": "That's an average, not a deadline. But it shows how *little* room you get.",
+     "scene": {
+      "kind": "feed",
+      "speed": 1500
+     }
+    },
+    {
+     "say": "So what fits in under *two* seconds?",
+     "scene": {
+      "kind": "statement",
+      "font": "anton",
+      "size": 160,
+      "text": "What fits in *1.7s*?"
+     }
+    },
+    {
+     "say": "Not a sentence. A *headline*.",
+     "scene": {
+      "kind": "compare",
+      "weak": "We are so excited to finally share something we've been working on",
+      "strong": "*Bakers:* stop doing *this*",
+      "weak_label": "SENTENCE",
+      "strong_label": "HEADLINE",
+      "verdict_at": 1.4
+     }
+    },
+    {
+     "say": "Six words or fewer. Big enough to read without stopping."
+    },
+    {
+     "say": "If they read it while scrolling, you've already *won* the first round."
+    },
+    {
+     "say": "That's what we build into every account we run.",
+     "scene": {
+      "kind": "work",
+      "title": "Our work"
+     }
+    },
+    {
+     "say": "Want it done for you? DM *DAILY*. Your first ad is free.",
+     "scene": {
+      "kind": "end"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "source": "Meta Newsroom (Facebook research, 2016)",
+     "url": "https://about.fb.com/es/news/2016/02/capta-la-atencion-con-nuevas-funcionalidades-para-anuncios-de-video/",
+     "date": "2016-02-10"
+    }
+   ],
+   "work": [
+    "a_pin.jpg",
+    "b_forever.jpg",
+    "c_holdsup.jpg"
+   ],
+   "caption": "1.7 seconds: the average time people spent with a mobile post (vs 2.5 s on desktop).\n\nThat's Facebook's 2016 average, not a deadline, but it shows how little room you get.\nUnder 2 seconds fits a headline, not a sentence.\nSix words or fewer, readable mid-scroll.\n\nSource: Facebook research (2016), via Social Media Today\n\nThis is exactly what we build into every account we run.\nSave this for your next post.\nFirst ad free · DM 'DAILY'\n\n#smallbusinessmarketing #instagramtips #reelstips #contentstrategy #smallbusiness",
+   "status": "unused"
+  },
+  {
+   "id": "s25",
+   "type": "testing",
+   "audience": "Founders",
+   "hook": "Reach dropped today? Instagram's boss says the algorithm is probably not why.",
+   "lines": [
+    {
+     "say": "Reach dropped today? Instagram's boss says it's *probably* not the algorithm.",
+     "scene": {
+      "kind": "hook",
+      "label": "Founders",
+      "headline": "Reach dropped today? It's *probably not* the algorithm."
+     }
+    },
+    {
+     "say": "Mosseri says ranking changes in small ways every single day.",
+     "scene": {
+      "kind": "statement",
+      "font": "serif",
+      "size": 104,
+      "text": "Ranking changes a little *every day.*",
+      "sub": "Adam Mosseri, Apr 2025 (paraphrased)"
+     }
+    },
+    {
+     "say": "Big swings usually come from the *world*. Holidays. News. Events."
+    },
+    {
+     "say": "So one bad day tells you almost *nothing*.",
+     "scene": {
+      "kind": "curve",
+      "title": "Look at the week, not the day",
+      "xmax": 7,
+      "ticks": [
+       0,
+       1,
+       2,
+       3,
+       4,
+       5,
+       6,
+       7
+      ],
+      "curves": [
+       {
+        "pts": [
+         [
+          0,
+          40
+         ],
+         [
+          1,
+          62
+         ],
+         [
+          2,
+          30
+         ],
+         [
+          3,
+          55
+         ],
+         [
+          4,
+          48
+         ],
+         [
+          5,
+          70
+         ],
+         [
+          6,
+          52
+         ],
+         [
+          7,
+          64
+         ]
+        ],
+        "color": "red"
+       }
+      ],
+      "note": "Illustration"
+     }
+    },
+    {
+     "say": "What tells you something? *Patterns* across many posts."
+    },
+    {
+     "say": "Mosseri's advice: *experiment*, and post as much as you can without burning out."
+    },
+    {
+     "say": "Judge the *week*. Not the day.",
+     "scene": {
+      "kind": "statement",
+      "font": "anton",
+      "size": 170,
+      "text": "Judge the *week.*"
+     }
+    },
+    {
+     "say": "That's what we build into every account we run.",
+     "scene": {
+      "kind": "work",
+      "title": "Our work"
+     }
+    },
+    {
+     "say": "Want it done for you? DM *DAILY*. Your first ad is free.",
+     "scene": {
+      "kind": "end"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "source": "Adam Mosseri Q&A, via Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/instagram-chief-answers-creator-questions/744813/",
+     "date": "2025-04-08"
+    },
+    {
+     "source": "Adam Mosseri, via Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/instagram-chief-shares-algorithm-insights-and-posting-tips/",
+     "date": "2026-09-24"
+    }
+   ],
+   "work": [
+    "a_pin.jpg",
+    "b_forever.jpg",
+    "c_holdsup.jpg"
+   ],
+   "caption": "Reach dropped today? Instagram's boss says it's probably not the algorithm.\n\nMosseri: ranking changes in small ways daily; big day-to-day swings are more likely the world changing (holidays, events).\nOne bad day tells you almost nothing. Patterns across many posts do.\nExperiment. Post as much as you can without burning out. Judge the week.\n\nSource: Adam Mosseri, via Social Media Today (Apr 2025; Sep 2026)\n\nThis is exactly what we build into every account we run.\nSave this for your next post.\nFirst ad free · DM 'DAILY'\n\n#smallbusinessmarketing #instagramtips #reelstips #contentstrategy #smallbusiness",
+   "status": "unused"
+  },
+  {
+   "id": "s26",
+   "type": "retention",
+   "audience": "Small brands",
+   "hook": "Reels can be 3 minutes now. That doesn't mean yours should be.",
+   "lines": [
+    {
+     "say": "Reels can be *three* minutes long now. Yours probably shouldn't be.",
+     "scene": {
+      "kind": "hook",
+      "label": "Small brands",
+      "headline": "Reels can be *3 minutes* now. Yours probably *shouldn't*."
+     }
+    },
+    {
+     "say": "Instagram raised the limit from *ninety* seconds to *three* minutes in January 2025.",
+     "scene": {
+      "kind": "bars",
+      "title": "Max reel length",
+      "unit": "s",
+      "bars": [
+       {
+        "label": "Before Jan 2025",
+        "value": 90,
+        "text": "90s"
+       },
+       {
+        "label": "Since Jan 2025",
+        "value": 180,
+        "text": "3 min",
+        "color": "red"
+       }
+      ],
+      "maxv": 220,
+      "note": "Adam Mosseri, Jan 2025"
+     }
+    },
+    {
+     "say": "But watch time is one of its top *three* signals.",
+     "scene": {
+      "kind": "icons",
+      "kinds": [
+       "clock",
+       "heart",
+       "send"
+      ],
+      "names": {
+       "clock": "watch time",
+       "heart": "likes / reach",
+       "send": "sends / reach"
+      },
+      "highlight": "clock",
+      "hl_at": 0.8
+     }
+    },
+    {
+     "say": "A longer reel only helps if people *stay*."
+    },
+    {
+     "say": "So the rule isn't short or long.",
+     "scene": {
+      "kind": "statement",
+      "font": "anton",
+      "size": 150,
+      "text": "Not short. Not long."
+     }
+    },
+    {
+     "say": "It's *one* lesson, and not a second more.",
+     "scene": {
+      "kind": "statement",
+      "font": "anton",
+      "size": 150,
+      "text": "*One* lesson. Then stop."
+     }
+    },
+    {
+     "say": "Check your retention chart. Where the line drops, you've said enough."
+    },
+    {
+     "say": "That's what we build into every account we run.",
+     "scene": {
+      "kind": "work",
+      "title": "Our work"
+     }
+    },
+    {
+     "say": "Want it done for you? DM *DAILY*. Your first ad is free.",
+     "scene": {
+      "kind": "end"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "source": "Adam Mosseri, via Storyboard18",
+     "url": "https://www.storyboard18.com/digital/instagram-extends-reels-to-three-minutes-and-updates-profile-grid/",
+     "date": "2025-01-21"
+    },
+    {
+     "source": "Adam Mosseri, via Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/instagram-shares-algorithm-2025/738034/",
+     "date": "2025-01-22"
+    },
+    {
+     "source": "Instagram reel insights, via Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/instagram-adds-retention-insights-reels/758464/",
+     "date": "2025-08-24"
+    }
+   ],
+   "work": [
+    "a_pin.jpg",
+    "b_forever.jpg",
+    "c_holdsup.jpg"
+   ],
+   "caption": "Reels can be 3 minutes now. Yours probably shouldn't be.\n\nInstagram raised the max from 90 s to 3 min in Jan 2025.\nWatch time is one of the top 3 ranking signals, so length only helps if people stay.\nOne lesson, then stop. Your Retention chart shows where you've said enough.\n\nSource: Adam Mosseri (Jan 2025, via Storyboard18 & Social Media Today); Instagram reel insights\n\nThis is exactly what we build into every account we run.\nSave this for your next post.\nFirst ad free · DM 'DAILY'\n\n#smallbusinessmarketing #instagramtips #reelstips #contentstrategy #smallbusiness",
+   "status": "unused"
+  },
+  {
+   "id": "s27",
+   "type": "product",
+   "audience": "Cafés",
+   "hook": "Your café's best reel isn't the latte art. It's the 1 number behind it.",
+   "lines": [
+    {
+     "say": "Your café's best reel isn't the latte art. It's the *one* number behind it.",
+     "scene": {
+      "kind": "hook",
+      "label": "Cafés",
+      "headline": "Your best reel isn't the latte art. It's the *1* number behind it."
+     }
+    },
+    {
+     "say": "Latte art is pretty. And every café posts it.",
+     "scene": {
+      "kind": "compare",
+      "weak": "Latte art of the day",
+      "strong": "",
+      "weak_label": "EVERY CAFÉ",
+      "verdict_at": 99
+     }
+    },
+    {
+     "say": "A number is *yours*. 'We pour X test shots every morning. Here's why.'",
+     "scene": {
+      "kind": "compare",
+      "weak": "Latte art of the day",
+      "strong": "We pour *X* test shots every morning. Here's why",
+      "weak_label": "EVERY CAFÉ",
+      "strong_label": "ONLY YOU",
+      "verdict_at": 1.2
+     }
+    },
+    {
+     "say": "Use your *real* number. Grams, minutes, shots. Whatever you actually do."
+    },
+    {
+     "say": "Then teach the why. Then show the cup.",
+     "scene": {
+      "kind": "list",
+      "title": "The format",
+      "items": [
+       "Your *real* number",
+       "The *why*",
+       "The cup, as *proof*"
+      ]
+     }
+    },
+    {
+     "say": "Instagram recommends the *original*. Your numbers can't be copied.",
+     "scene": {
+      "kind": "statement",
+      "font": "anton",
+      "size": 140,
+      "text": "Your numbers can't be *copied.*"
+     }
+    },
+    {
+     "say": "That's what we build into every account we run.",
+     "scene": {
+      "kind": "work",
+      "title": "Our work"
+     }
+    },
+    {
+     "say": "Want it done for you? DM *DAILY*. Your first ad is free.",
+     "scene": {
+      "kind": "end"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "source": "Instagram Creators: Helping creators find new audiences (originality)",
+     "url": "https://creators.instagram.com/recommendations-and-Originality",
+     "date": "2024-04-30"
+    }
+   ],
+   "work": [
+    "a_pin.jpg",
+    "b_forever.jpg",
+    "c_holdsup.jpg"
+   ],
+   "caption": "Your café's best reel isn't the latte art. It's the 1 number behind it.\n\nEvery café posts latte art. Only you have your numbers: grams, minutes, test shots.\nFormat: your real number → the why → the cup as proof.\nInstagram recommends the original, and your numbers can't be copied.\n\nSource: Instagram Creators (originality update, Apr 2024)\n\nThis is exactly what we build into every account we run.\nSave this for your next post.\nFirst ad free · DM 'DAILY'\n\n#smallbusinessmarketing #instagramtips #reelstips #contentstrategy #smallbusiness",
+   "status": "unused"
+  },
+  {
+   "id": "s28",
+   "type": "shares",
+   "audience": "Product businesses",
+   "hook": "Instagram predicts if someone will send your post before they see it.",
+   "lines": [
+    {
+     "say": "Instagram predicts whether each person will *send* your post to a friend.",
+     "scene": {
+      "kind": "hook",
+      "label": "Product businesses",
+      "headline": "Instagram predicts if someone will *send* your post."
+     }
+    },
+    {
+     "say": "Mosseri describes ranking as predicting how *each* person will respond.",
+     "scene": {
+      "kind": "list",
+      "reveal": "time",
+      "every": 0.6,
+      "title": "What it predicts",
+      "items": [
+       "Will they *watch*?",
+       "Will they *like*?",
+       "Will they *send* it?"
+      ]
+     }
+    },
+    {
+     "say": "Will they watch it? Like it? *Pass* it to a friend?"
+    },
+    {
+     "say": "Those predictions come from what people actually did with posts like yours.",
+     "scene": {
+      "kind": "feed",
+      "speed": 1000
+     }
+    },
+    {
+     "say": "So every send teaches Instagram who *else* might want it."
+    },
+    {
+     "say": "Which means the best growth tactic isn't a hashtag.",
+     "scene": {
+      "kind": "statement",
+      "font": "anton",
+      "size": 150,
+      "text": "Not a hashtag."
+     }
+    },
+    {
+     "say": "It's a post people *pass* *on*.",
+     "scene": {
+      "kind": "statement",
+      "font": "anton",
+      "size": 150,
+      "text": "A post people *pass on.*"
+     }
+    },
+    {
+     "say": "That's what we build into every account we run.",
+     "scene": {
+      "kind": "work",
+      "title": "Our work"
+     }
+    },
+    {
+     "say": "Want it done for you? DM *DAILY*. Your first ad is free.",
+     "scene": {
+      "kind": "end"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "source": "Adam Mosseri, via Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/instagram-chief-shares-algorithm-insights-and-posting-tips/",
+     "date": "2026-09-24"
+    },
+    {
+     "source": "Adam Mosseri, via Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/instagram-shares-algorithm-2025/738034/",
+     "date": "2025-01-22"
+    }
+   ],
+   "work": [
+    "a_pin.jpg",
+    "b_forever.jpg",
+    "c_holdsup.jpg"
+   ],
+   "caption": "Instagram predicts whether each person will send your post to a friend.\n\nMosseri: ranking predicts how each person will respond: watch, like, pass it on.\nSends per reach is one of the signals he tells creators to track.\nThe best growth tactic isn't a hashtag. It's a post people pass on.\n\nSource: Adam Mosseri, via Social Media Today (Jan 2025; Sep 2026)\n\nThis is exactly what we build into every account we run.\nSave this for your next post.\nFirst ad free · DM 'DAILY'\n\n#smallbusinessmarketing #instagramtips #reelstips #contentstrategy #smallbusiness",
+   "status": "unused"
+  },
+  {
+   "id": "s29",
+   "type": "reach",
+   "audience": "Small brands",
+   "hook": "You can only use 5 hashtags now. And they won't grow your reach.",
+   "lines": [
+    {
+     "say": "You can only use *five* hashtags now. And they won't grow your reach.",
+     "scene": {
+      "kind": "hook",
+      "label": "Small brands",
+      "headline": "You get *5* hashtags now. They won't *grow* your reach."
+     }
+    },
+    {
+     "say": "Since December 2025, Instagram limits posts and reels to *five*.",
+     "scene": {
+      "kind": "counter",
+      "to": 5,
+      "label": "hashtags max · since Dec 2025",
+      "over": 0.8,
+      "size": 380
+     }
+    },
+    {
+     "say": "Mosseri: hashtags are no longer a primary way to increase reach.",
+     "scene": {
+      "kind": "quote",
+      "size": 72,
+      "quote": "Hashtags are *no longer a primary way* to increase your reach on Instagram.",
+      "who": "Adam Mosseri",
+      "role": "Head of Instagram · Apr 2025"
+     }
+    },
+    {
+     "say": "They just tell people what a post is *about*."
+    },
+    {
+     "say": "So what helps people find you? *Keywords*.",
+     "scene": {
+      "kind": "statement",
+      "font": "anton",
+      "size": 160,
+      "text": "*Keywords.*"
+     }
+    },
+    {
+     "say": "Instagram's advice: put relevant keywords in your *caption*, not the comments,",
+     "scene": {
+      "kind": "list",
+      "title": "Be findable",
+      "items": [
+       "Keywords in the *caption*",
+       "Bio matches your *content*",
+       "Up to *5* targeted hashtags"
+      ]
+     }
+    },
+    {
+     "say": "and make your name and bio match what you post."
+    },
+    {
+     "say": "That's what we build into every account we run.",
+     "scene": {
+      "kind": "work",
+      "title": "Our work"
+     }
+    },
+    {
+     "say": "Want it done for you? DM *DAILY*. Your first ad is free.",
+     "scene": {
+      "kind": "end"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "source": "Instagram, via Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/instagram-implements-new-limits-on-hashtag-use/808300/",
+     "date": "2025-12-18"
+    },
+    {
+     "source": "Adam Mosseri Q&A, via Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/instagram-chief-answers-creator-questions/744813/",
+     "date": "2025-04-08"
+    },
+    {
+     "source": "Instagram Creators: recommendations eligibility tips",
+     "url": "https://creators.instagram.com/blog/instagram-recommendations-eligibility-tips-creators",
+     "date": "2023-04-25"
+    }
+   ],
+   "work": [
+    "a_pin.jpg",
+    "b_forever.jpg",
+    "c_holdsup.jpg"
+   ],
+   "caption": "You can only use 5 hashtags now. And they won't grow your reach.\n\nSince Dec 2025 Instagram limits posts and reels to 5 hashtags; it recommends fewer, more targeted ones.\nMosseri: hashtags are no longer a primary way to increase reach.\nPut keywords in your caption (not comments) and make your name and bio match your content.\n\nSource: Instagram via Social Media Today (Dec 2025); Adam Mosseri (Apr 2025); Instagram Creators\n\nThis is exactly what we build into every account we run.\nSave this for your next post.\nFirst ad free · DM 'DAILY'\n\n#smallbusinessmarketing #instagramtips #reelstips #contentstrategy #smallbusiness",
+   "status": "unused"
+  },
+  {
+   "id": "s30",
+   "type": "hooks",
+   "audience": "Jewelry brands",
+   "hook": "Same necklace. 2 first frames. Only 1 stops the scroll.",
+   "lines": [
+    {
+     "say": "Same necklace. *Two* first frames. Only one stops the scroll.",
+     "scene": {
+      "kind": "hook",
+      "label": "Jewelry brands",
+      "headline": "Same necklace. *2* first frames. Only *1* stops the scroll."
+     }
+    },
+    {
+     "say": "First frame A: a slow pan across the necklace.",
+     "scene": {
+      "kind": "compare",
+      "weak": "(slow pan across the necklace)",
+      "strong": "",
+      "weak_label": "FRAME A",
+      "verdict_at": 99
+     }
+    },
+    {
+     "say": "First frame B: '*Three* signs your gold is fake.'",
+     "scene": {
+      "kind": "compare",
+      "weak": "(slow pan across the necklace)",
+      "strong": "*3* signs your 'gold' necklace is fake",
+      "weak_label": "FRAME A",
+      "strong_label": "FRAME B",
+      "verdict_at": 1.4
+     }
+    },
+    {
+     "say": "B wins, because it gives a *reason* to stay."
+    },
+    {
+     "say": "It names a *fear*, it has a number, and the answer is coming."
+    },
+    {
+     "say": "Instagram measures who skips in the first *three* seconds. Frame A loses them there.",
+     "scene": {
+      "kind": "timeline",
+      "max": 10,
+      "mark": 3,
+      "mark_label": "SKIP ZONE",
+      "title": "Where A loses them"
+     }
+    },
+    {
+     "say": "And the necklace? It shows up at sign three, as the real thing.",
+     "scene": {
+      "kind": "statement",
+      "font": "serif",
+      "size": 110,
+      "text": "The product: the *real thing,* at the end."
+     }
+    },
+    {
+     "say": "That's what we build into every account we run.",
+     "scene": {
+      "kind": "work",
+      "title": "Our work"
+     }
+    },
+    {
+     "say": "Want it done for you? DM *DAILY*. Your first ad is free.",
+     "scene": {
+      "kind": "end"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "source": "Instagram reel insights, via Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/instagram-adds-retention-insights-reels/758464/",
+     "date": "2025-08-24"
+    },
+    {
+     "source": "Instagram Creators: recommendations eligibility tips",
+     "url": "https://creators.instagram.com/blog/instagram-recommendations-eligibility-tips-creators",
+     "date": "2023-04-25"
+    }
+   ],
+   "work": [
+    "a_pin.jpg",
+    "b_forever.jpg",
+    "c_holdsup.jpg"
+   ],
+   "caption": "Same necklace. 2 first frames. Only 1 stops the scroll.\n\nA: a slow pan. B: '3 signs your gold necklace is fake.'\nB names a fear, has a number, and promises an answer. A loses people in the 3-second skip window Instagram measures.\nYour product shows up at the end, as the real thing.\n\nSource: Instagram reel insights (Aug 2025); Instagram Creators\n\nThis is exactly what we build into every account we run.\nSave this for your next post.\nFirst ad free · DM 'DAILY'\n\n#smallbusinessmarketing #instagramtips #reelstips #contentstrategy #smallbusiness",
+   "status": "unused"
+  }
+ ]
+}
