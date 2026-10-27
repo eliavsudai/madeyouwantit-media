@@ -1,0 +1,297 @@
+{
+ "name": "15-day format test (owner decision Oct 26, 2026)",
+ "rule": "Two Reels a day at 12:00 and 18:00 (America/Guatemala), BOTH in that day's format, different subject/product. Same narrator family, same end card and CTA (Your first ad is on us. DM 'DAILY') on every video, so only the format changes. No faces of the owner, no real client work (owner said no).",
+ "metrics": "Rank on lifetime numbers at the end: (1) watch % = avg watch time / length, (2) shares+saves per 100 reached, (3) follows + 'DAILY' DMs. Raw views are reported but not used to rank (small account, distribution is noisy and grows over time).",
+ "final_report": "2026-11-11 ~12:30 PM: re-pull all lifetime insights, rank formats, recommend the 2–3 to keep; pause new posting on Nov 11 until the owner decides.",
+ "formats": [
+  {
+   "n": 1,
+   "name": "Tension",
+   "how": "Something is about to happen (pin→balloon). Silent 4 s hook, a fake-out mid-way, narrator names the feeling, pitch, payoff at the very end. Engine: engine/retention/pin_*.py."
+  },
+  {
+   "n": 2,
+   "name": "Before / After",
+   "how": "A boring, typical product ad (flat, generic, stock-y) plays first and is labelled BEFORE; then our version of the same product, labelled AFTER. Narrator: 'Same product. Different ad.' Pitch + CTA."
+  },
+  {
+   "n": 3,
+   "name": "Text order → finished ad",
+   "how": "A client-style text message arrives ('can you make an ad for my ___?'), quick process glimpses (script, footage, edit), then the finished mini-ad. Honest: no fake clock times, 'example order'."
+  },
+  {
+   "n": 4,
+   "name": "Narrated showcase",
+   "how": "'Here's how we'd sell your ___' — narrator over a plain shot, then a cinematic ~10 s mini-ad with its own music, then 'your logo here', CTA. Engine: _system/engine/promo/."
+  },
+  {
+   "n": 5,
+   "name": "Satisfying close-ups, no voice",
+   "how": "No narration. Macro product shots cut to a beat (pour, crunch, unbox, spin), bold on-screen text tells the story ('This is how a product should feel'). Text CTA at the end + music sting."
+  },
+  {
+   "n": 6,
+   "name": "POV text story",
+   "how": "'POV: your café's Reels finally get views' — first-person text-on-screen story over footage (posting into the void → we take over → people stop scrolling). Light narration or none."
+  },
+  {
+   "n": 7,
+   "name": "List",
+   "how": "'3 reasons people skip your ads' — numbered, fast, each reason shown visually with a bad example, then the fix (us). Narrated."
+  },
+  {
+   "n": 8,
+   "name": "Hot take",
+   "how": "Bold opener on screen + voice: 'Your product isn't boring. Your ad is.' Argue it in 3 beats with visual proof, then the offer."
+  },
+  {
+   "n": 9,
+   "name": "Pattern interrupt",
+   "how": "Opens as something else entirely (a fake 'video buffering' glitch, a weather report, a cooking clip) and twists into the pitch at ~3 s: 'Got you. That's what a hook does.'"
+  },
+  {
+   "n": 10,
+   "name": "Guess the product",
+   "how": "Extreme close-ups / abstract shots, on-screen 'Guess the product' with a counter; reveal at the end; narrator: 'You watched to find out. Your customers would too.'"
+  },
+  {
+   "n": 11,
+   "name": "Mini skit",
+   "how": "A thumb scrolls a fake feed past 4 dull ads (quick, muted), then stops dead on ours; the ad plays. Narrator: 'That's the one they stop for.' Built with phone mockups, no faces needed."
+  },
+  {
+   "n": 12,
+   "name": "Proof chart",
+   "how": "Animated retention graph: a typical ad's viewers dropping off a cliff in 2 s vs a curve that holds — built from a narrated, honest explanation of how retention works (no fake client numbers; label as illustration)."
+  },
+  {
+   "n": 13,
+   "name": "Useful tip",
+   "how": "Pure value: 'One trick to keep people watching your ad' (open a loop in the first second and close it at the end), demonstrated live in the video itself. Save-worthy. Soft CTA."
+  },
+  {
+   "n": 14,
+   "name": "Seamless loop",
+   "how": "A short (8–12 s) piece whose last frame flows perfectly into the first, so it auto-replays; text + a line of voice. Measures whether loops inflate watch time."
+  },
+  {
+   "n": 15,
+   "name": "Direct offer",
+   "how": "Blunt and plain: 'Free ad. What's the catch? There isn't one.' Shows example work fast, explains exactly how to claim it (DM DAILY, tell us your product), what happens next."
+  }
+ ],
+ "posts": [
+  {
+   "day": 1,
+   "format": "Tension",
+   "id": "2026-10-26-retention-01",
+   "slot": "12:00",
+   "length_s": 30.3,
+   "title": "The Pin"
+  },
+  {
+   "day": 2,
+   "format": "Before / After",
+   "id": "2026-10-27-t15-noon",
+   "slot": "12:00",
+   "length_s": null
+  },
+  {
+   "day": 2,
+   "format": "Before / After",
+   "id": "2026-10-27-t15-evening",
+   "slot": "18:00",
+   "length_s": null
+  },
+  {
+   "day": 3,
+   "format": "Text order → finished ad",
+   "id": "2026-10-28-t15-noon",
+   "slot": "12:00",
+   "length_s": null
+  },
+  {
+   "day": 3,
+   "format": "Text order → finished ad",
+   "id": "2026-10-28-t15-evening",
+   "slot": "18:00",
+   "length_s": null
+  },
+  {
+   "day": 4,
+   "format": "Narrated showcase",
+   "id": "2026-10-29-t15-noon",
+   "slot": "12:00",
+   "length_s": null
+  },
+  {
+   "day": 4,
+   "format": "Narrated showcase",
+   "id": "2026-10-29-t15-evening",
+   "slot": "18:00",
+   "length_s": null
+  },
+  {
+   "day": 5,
+   "format": "Satisfying close-ups, no voice",
+   "id": "2026-10-30-t15-noon",
+   "slot": "12:00",
+   "length_s": null
+  },
+  {
+   "day": 5,
+   "format": "Satisfying close-ups, no voice",
+   "id": "2026-10-30-t15-evening",
+   "slot": "18:00",
+   "length_s": null
+  },
+  {
+   "day": 6,
+   "format": "POV text story",
+   "id": "2026-10-31-t15-noon",
+   "slot": "12:00",
+   "length_s": null
+  },
+  {
+   "day": 6,
+   "format": "POV text story",
+   "id": "2026-10-31-t15-evening",
+   "slot": "18:00",
+   "length_s": null
+  },
+  {
+   "day": 7,
+   "format": "List",
+   "id": "2026-11-01-t15-noon",
+   "slot": "12:00",
+   "length_s": null
+  },
+  {
+   "day": 7,
+   "format": "List",
+   "id": "2026-11-01-t15-evening",
+   "slot": "18:00",
+   "length_s": null
+  },
+  {
+   "day": 8,
+   "format": "Hot take",
+   "id": "2026-11-02-t15-noon",
+   "slot": "12:00",
+   "length_s": null
+  },
+  {
+   "day": 8,
+   "format": "Hot take",
+   "id": "2026-11-02-t15-evening",
+   "slot": "18:00",
+   "length_s": null
+  },
+  {
+   "day": 9,
+   "format": "Pattern interrupt",
+   "id": "2026-11-03-t15-noon",
+   "slot": "12:00",
+   "length_s": null
+  },
+  {
+   "day": 9,
+   "format": "Pattern interrupt",
+   "id": "2026-11-03-t15-evening",
+   "slot": "18:00",
+   "length_s": null
+  },
+  {
+   "day": 10,
+   "format": "Guess the product",
+   "id": "2026-11-04-t15-noon",
+   "slot": "12:00",
+   "length_s": null
+  },
+  {
+   "day": 10,
+   "format": "Guess the product",
+   "id": "2026-11-04-t15-evening",
+   "slot": "18:00",
+   "length_s": null
+  },
+  {
+   "day": 11,
+   "format": "Mini skit",
+   "id": "2026-11-05-t15-noon",
+   "slot": "12:00",
+   "length_s": null
+  },
+  {
+   "day": 11,
+   "format": "Mini skit",
+   "id": "2026-11-05-t15-evening",
+   "slot": "18:00",
+   "length_s": null
+  },
+  {
+   "day": 12,
+   "format": "Proof chart",
+   "id": "2026-11-06-t15-noon",
+   "slot": "12:00",
+   "length_s": null
+  },
+  {
+   "day": 12,
+   "format": "Proof chart",
+   "id": "2026-11-06-t15-evening",
+   "slot": "18:00",
+   "length_s": null
+  },
+  {
+   "day": 13,
+   "format": "Useful tip",
+   "id": "2026-11-07-t15-noon",
+   "slot": "12:00",
+   "length_s": null
+  },
+  {
+   "day": 13,
+   "format": "Useful tip",
+   "id": "2026-11-07-t15-evening",
+   "slot": "18:00",
+   "length_s": null
+  },
+  {
+   "day": 14,
+   "format": "Seamless loop",
+   "id": "2026-11-08-t15-noon",
+   "slot": "12:00",
+   "length_s": null
+  },
+  {
+   "day": 14,
+   "format": "Seamless loop",
+   "id": "2026-11-08-t15-evening",
+   "slot": "18:00",
+   "length_s": null
+  },
+  {
+   "day": 15,
+   "format": "Direct offer",
+   "id": "2026-11-09-t15-noon",
+   "slot": "12:00",
+   "length_s": null
+  },
+  {
+   "day": 15,
+   "format": "Direct offer",
+   "id": "2026-11-09-t15-evening",
+   "slot": "18:00",
+   "length_s": null
+  },
+  {
+   "day": 1,
+   "format": "Tension",
+   "id": "2026-11-10-t15-noon",
+   "slot": "12:00",
+   "length_s": null,
+   "note": "second Tension Reel (day 1 only had one), different object, so every format has two"
+  }
+ ]
+}
