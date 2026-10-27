@@ -94,14 +94,16 @@
    "format": "Before / After",
    "id": "2026-10-27-t15-noon",
    "slot": "12:00",
-   "length_s": null
+   "length_s": 26.4,
+   "title": "Before/After — cafe"
   },
   {
    "day": 2,
    "format": "Before / After",
    "id": "2026-10-27-t15-evening",
    "slot": "18:00",
-   "length_s": null
+   "length_s": 26.1,
+   "title": "Before/After — shoes"
   },
   {
    "day": 3,
